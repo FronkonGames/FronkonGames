@@ -1,6 +1,6 @@
 <img align="center" src="images/github-banner.png">
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Martin Bustos</h1>
-<h3 align="center">A indie game developer and asset store publisher.</h3>
+<h3 align="center">a indie game developer and asset store publisher.</h3>
 <h3 align="center">
   <a href="https://twitter.com/fronkongames" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
    <a href="https://www.linkedin.com/in/martinbr" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -16,7 +16,22 @@
 
 <h3 align="left">Assets for Unity:</h3>
 
-|--|--|
+<table>
+<thead>
+  <tr>
+    <th colspan="2" rowspan="2" align="center"><a href="https://assetstore.unity.com/packages/vfx/shaders/sprites-mojo-214468"><img src="images/sprites-mojo.png" alt="Sprites Mojo"/></a></th>
+    <th colspan="2" rowspan="2" align="center"><a href="https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/onebit-216000"><img src="images/one-bit.png" alt="One Bit"/></a></th>
+  </tr>
+  <tr>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="2" align="center">A collection of 2D effects to add more juice to your games</td>
+    <td colspan="2" align="center">A hipster, original and versatile look using a dithering with blue noise</td>
+  </tr>
+</tbody>
+</table>
 
 ---
 
