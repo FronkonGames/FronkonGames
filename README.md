@@ -1,6 +1,7 @@
 <img align="center" src="images/github-banner.png">
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Martin Bustos</h1>
-<h3 align="center">a indie game developer and asset store publisher.</h3>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Martin Bustos<br>
+a indie game developer and asset store publisher
+</h1>
 <h3 align="center">
   <a href="https://twitter.com/fronkongames" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
    <a href="https://www.linkedin.com/in/martinbr" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -29,6 +30,42 @@
   <tr>
     <td colspan="2" align="center">A collection of 2D effects to add more juice to your games</td>
     <td colspan="2" align="center">A hipster, original and versatile look using a dithering with blue noise</td>
+  </tr>
+</tbody>
+</table>
+
+---
+
+<h3 align="left">Game development:</h3>
+
+<table>
+<thead>
+  <tr>
+    <th colspan="2" rowspan="2" align="center"><a href="https://fronkongames.github.io/blog/awesome-game-development.html"><img src="https://fronkongames.github.io/blog/awesome-game-development/banner.jpg" alt="Awesome GameDev, an curated collection of resources to gamedev" width="75%" height="auto"/></a></th>
+    <th colspan="2" rowspan="2" align="center"><a href="https://github.com/FronkonGames/GameWork-Foundation"><img src="https://github.com/FronkonGames/GameWork-Foundation/blob/main/Documentation/banner.png" alt="Generic code to build the basis of a framework to develop Unity based games" width="75%" height="auto"/></a></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="2" align="center">Awesome GameDev, an curated collection of resources to gamedev</td>
+    <td colspan="2" align="center">Generic code to build the basis of a framework to develop Unity based games</td>
+  </tr>
+</tbody>
+</table>
+
+---
+
+<h3 align="left">Fun:</h3>
+
+<table>
+<thead>
+  <tr>
+    <th colspan="2" rowspan="2" align="center"><a href="https://fronkongames.github.io/blog/go-weiqi-igo-baduk.html"><img src="https://fronkongames.github.io/blog/go-weiqi-igo-baduk/banner.jpg" alt="Introduction to Go. The oldest board game still played today." width="40%" height="auto"/></a></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="2" align="center">Introduction to Go, the oldest board game still played today</td>
   </tr>
 </tbody>
 </table>
