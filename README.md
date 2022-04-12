@@ -41,7 +41,7 @@ a indie game developer and asset store publisher
 <table>
 <thead>
   <tr>
-    <th colspan="2" rowspan="2" align="center"><a href="https://fronkongames.github.io/blog/awesome-game-development.html"><img src="https://fronkongames.github.io/blog/awesome-game-development/banner.jpg" alt="Awesome GameDev, an curated collection of resources to gamedev" width="75%" height="auto"/></a></th>
+    <th colspan="2" rowspan="2" align="center"><a href="https://fronkongames.github.io/gamedev/awesome-game-development.html"><img src="https://fronkongames.github.io/gamedev/awesome-game-development/banner.jpg" alt="Awesome GameDev, an curated collection of resources to gamedev" width="75%" height="auto"/></a></th>
     <th colspan="2" rowspan="2" align="center"><a href="https://github.com/FronkonGames/GameWork-Foundation"><img src="https://github.com/FronkonGames/GameWork-Foundation/blob/main/Documentation/banner.png" alt="Generic code to build the basis of a framework to develop Unity based games" width="75%" height="auto"/></a></th>
   </tr>
 </thead>
