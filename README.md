@@ -15,58 +15,25 @@ a indie game developer and asset store publisher
 💬 Ask me about **game development** and **Unity** (**fronkongames@gmail.com**).
 
 <br>
-<h3 align="left">Assets for Unity:</h3>
 
-<table>
-<thead>
-  <tr>
-    <th colspan="2" rowspan="2" align="center"><a href="https://assetstore.unity.com/packages/vfx/shaders/sprites-mojo-214468"><img src="images/sprites-mojo.png" alt="Sprites Mojo"/></a></th>
-    <th colspan="2" rowspan="2" align="center"><a href="https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/onebit-216000"><img src="images/one-bit.png" alt="One Bit"/></a></th>
-  </tr>
-  <tr>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="2" align="center">A collection of 2D effects to add more juice to your games</td>
-    <td colspan="2" align="center">A hipster, original and versatile look using a dithering with blue noise</td>
-  </tr>
-</tbody>
-</table>
+| Assets for Unity | |
+| :-: | :-- |
+| <a href="https://fronkongames.github.io/store/sprites-mojo.html"><img src="images/sprites-mojo.png" alt="Sprites Mojo" width="300"/></a> | A collection of 2D effects to add more juice to your games</br></br><a href="https://fronkongames.github.io/store/demos/sprites-mojo/">DEMO</a> \| <a href="https://www.youtube.com/watch?v=4eyGdIvJxko">YOUTUBE</a> \| <a href="https://assetstore.unity.com/packages/vfx/shaders/sprites-mojo-214468">STORE</a> |
+| <a href="https://fronkongames.github.io/store/one-bit.html"><img src="images/one-bit.png" alt="One Bit" width="300"/></a> | A hipster, original and versatile look using a dithering with blue noise</br></br><a href="https://fronkongames.github.io/store/demos/one-bit/">DEMO</a> \| <a href="https://www.youtube.com/watch?v=WY10wS39GDw">YOUTUBE</a> \| <a href="https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/onebit-216000">STORE</a> |
 
 <br>
-<h3 align="left">Game development:</h3>
 
-<table>
-<thead>
-  <tr>
-    <th colspan="2" rowspan="2" align="center"><a href="https://fronkongames.github.io/gamedev/awesome-game-development.html"><img src="https://fronkongames.github.io/gamedev/awesome-game-development/banner.jpg" alt="Awesome GameDev, an curated collection of resources to gamedev" width="75%" height="auto"/></a></th>
-    <th colspan="2" rowspan="2" align="center"><a href="https://github.com/FronkonGames/GameWork-Foundation"><img src="https://github.com/FronkonGames/GameWork-Foundation/blob/main/Documentation/banner.png" alt="Generic code to build the basis of a framework to develop Unity based games" width="75%" height="auto"/></a></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="2" align="center">Awesome GameDev, an curated collection of resources to gamedev</td>
-    <td colspan="2" align="center">Generic code to build the basis of a framework to develop Unity based games</td>
-  </tr>
-</tbody>
-</table>
+| Game development | |
+| :-: | :-- |
+| <a href="https://fronkongames.github.io/gamedev/awesome-game-development.html"><img src="https://fronkongames.github.io/gamedev/awesome-game-development/banner.jpg" alt="Awesome GameDev, an curated collection of resources to gamedev" width="300"/></a> | Awesome GameDev, an curated collection of resources to gamedev |
+| <a href="https://github.com/FronkonGames/GameWork-Foundation"><img src="https://github.com/FronkonGames/GameWork-Foundation/blob/main/Documentation/banner.png" alt="Generic code to build the basis of a framework to develop Unity based games" width="300"/> | Generic code and tools to build the basis of a framework to develop Unity based games |
 
 <br>
-<h3 align="left">Fun:</h3>
 
-<table>
-<thead>
-  <tr>
-    <th colspan="2" rowspan="2" align="center"><a href="https://fronkongames.github.io/blog/go-weiqi-igo-baduk.html"><img src="https://fronkongames.github.io/blog/go-weiqi-igo-baduk/banner.jpg" alt="Introduction to Go. The oldest board game still played today." width="40%" height="auto"/></a></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="2" align="center">Introduction to Go, the oldest board game still played today</td>
-  </tr>
-</tbody>
-</table>
+| Fun | |
+| :-: | :-- |
+| <a href="https://fronkongames.github.io/blog/go-weiqi-igo-baduk.html"><img src="https://fronkongames.github.io/blog/go-weiqi-igo-baduk/banner.jpg" alt="Introduction to Go" width="300"/></a> | Go is a very old strategy game that consists of capturing pieces and winning territories |
+| <a href="https://github.com/FronkonGames/Machine-Learning-Game-Ideas"><img src="https://github.com/FronkonGames/Machine-Learning-Game-Ideas/raw/main/images/banner.png" alt="Game ideas generation using neural networks" width="300"/> | Using neural networks built with Keras / Tensorflow and using over 70000 Steam game descriptions |
 
 <br>
 <h3 align="left">Technologies and Tools:</h3>
