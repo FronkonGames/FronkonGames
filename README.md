@@ -52,7 +52,7 @@ A curated collection of resources to gamedev
 </p>
 </h3>
 
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
 <h3>
 <a href="https://github.com/FronkonGames/GameWork-Foundation"><img src="https://github.com/FronkonGames/GameWork-Foundation/blob/main/Documentation/banner.png" alt="Generic code to build the basis of a framework to develop Unity based games" width="300" align="left"/></a>
