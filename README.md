@@ -83,7 +83,16 @@ Using neural networks built with Keras / Tensorflow and using over 70000 Steam g
 </p>
 </h3>
 
-<br><br><br>
+<br><br><br><br>
+
+<h3>
+<a href="https://github.com/FronkonGames/Steam-Games-Scraper"><img src="images/steam-games-scraper.png" alt="Steam Games Scraper" width="300" align="left"/></a>
+<p align="right">
+Extract information from all games published in Steam thanks to its Web API, and store it in JSON format
+</p>
+</h3>
+
+<br><br><br><br><br>
 
 <br><br>
 
