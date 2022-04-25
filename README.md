@@ -55,13 +55,13 @@ A curated collection of resources to gamedev
 <br><br><br><br><br><br><br><br><br><br>
 
 <h3>
-<a href="https://github.com/FronkonGames/GameWork-Foundation"><img src="https://github.com/FronkonGames/GameWork-Foundation/blob/main/Documentation/banner.png" alt="Generic code to build the basis of a framework to develop Unity based games" width="300" align="left"/></a>
+<a href="https://github.com/FronkonGames/GameWork-Foundation"><img src="images/gamework-foundation.png" alt="Generic code to build the basis of a framework to develop Unity based games" width="300" align="left"/></a>
 <p align="right">
 Generic code and tools to build the basis of a framework to develop Unity based games
 </p>
 </h3>
 
-<br><br><br>
+<br><br><br><br>
 
 <br><br>
 
@@ -77,13 +77,22 @@ Go is a very old strategy game that consists of capturing pieces and winning ter
 <br><br><br><br><br><br><br><br><br>
 
 <h3>
-<a href="https://github.com/FronkonGames/Machine-Learning-Game-Ideas"><img src="https://github.com/FronkonGames/Machine-Learning-Game-Ideas/raw/main/images/banner.png" alt="Game ideas generation using neural networks" width="300" align="left"/></a>
+<a href="https://github.com/FronkonGames/Machine-Learning-Game-Ideas"><img src="images/ml-game-ideas.png" alt="Game ideas generation using neural networks" width="300" align="left"/></a>
 <p align="right">
 Using neural networks built with Keras / Tensorflow and using over 70000 Steam game descriptions
 </p>
 </h3>
 
-<br><br><br><br>
+<br><br><br><br><br><br><br>
+
+<h3>
+<a href="https://www.kaggle.com/datasets/fronkongames/steam-games-dataset"><img src="images/steam-games-dataset.png" alt="Steam Games Dataset" width="300" align="left"/></a>
+<p align="right">
+The largest dataset with information on games published on Steam
+</p>
+</h3>
+
+<br><br><br><br><br>
 
 <h3>
 <a href="https://github.com/FronkonGames/Steam-Games-Scraper"><img src="images/steam-games-scraper.png" alt="Steam Games Scraper" width="300" align="left"/></a>
