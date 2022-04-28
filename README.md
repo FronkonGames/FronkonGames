@@ -46,7 +46,7 @@ A collection of 2D effects to add more juice to your games
 
 
 <h3>
-<a href="https://fronkongames.github.io/gamedev/awesome-game-development.html"><img src="https://fronkongames.github.io/gamedev/awesome-game-development/banner.jpg" alt="Awesome GameDev, an curated collection of resources to gamedev" width="300" align="left"/></a>
+<a href="https://github.com/FronkonGames/Awesome-Gamedev"><img src="images/awesome-gamedev.png" alt="Awesome GameDev, an curated collection of resources to gamedev" width="300" align="left"/></a>
 <p align="right">
 A curated collection of resources to gamedev
 </p>
