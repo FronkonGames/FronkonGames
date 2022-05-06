@@ -21,24 +21,21 @@ a indie game developer and asset store publisher
 * **[One Bit](https://fronkongames.github.io/store/one-bit.html)**, a hipster, original and versatile look using a dithering with blue noise (<a href="https://fronkongames.github.io/store/demos/one-bit/">demo</a>, <a href="https://www.youtube.com/watch?v=WY10wS39GDw">youtube</a> , <a href="https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/onebit-216000">store</a>).
 * **[Sprites Mojo](https://fronkongames.github.io/store/sprites-mojo.html)**, a collection of 2D effects to add more juice to your games (<a href="https://fronkongames.github.io/store/demos/sprites-mojo/">demo</a>, <a href="https://www.youtube.com/watch?v=4eyGdIvJxko">youtube</a>, <a href="https://assetstore.unity.com/packages/vfx/shaders/sprites-mojo-214468">store</a>).
 
-<br>
-
 ## Game Development
 
 * **[Awesome GameDev](https://fronkongames.github.io/gamedev/awesome-game-development.html)**, a curated collection of resources to gamedev.
 * **[Game:Work Foundation](https://github.com/FronkonGames/GameWork-Foundation)**, generic code and tools to build the basis of a framework to develop Unity based games.
 * **[Design Patterns In Game Development](https://github.com/FronkonGames/GameWork-Foundation)**, a design pattern proposes a solution to a problem.
-
-<br>
+* **[Game Development Daily News](https://twitter.com/daily_unity)**, a Twitter bot with news, resources and job offers about game development.
+* **[Unity Store Deals](https://twitter.com/UnityStoreDeals)**, a Twitter bot that searches for all asset offers in the Unity store.
 
 ## Fun
 
 * **[ML Game Ideas](https://github.com/FronkonGames/Machine-Learning-Game-Ideas)**, using neural networks built with Keras / Tensorflow and using over 70000 Steam game descriptions.
 * **[Steam Games Dataset](https://www.kaggle.com/datasets/fronkongames/steam-games-dataset)**, the largest dataset with information on games published on Steam.
 * **[Steam Games Scraper](https://github.com/FronkonGames/Steam-Games-Scraper)**, extract information from all games published in Steam thanks to its Web API, and store it in JSON format.
+* **[One Game Idea A Day](https://twitter.com/OneGameIdeaADa1)**, a Twitter bot that generates game ideas using Machine Learning.
 * **[Go](https://fronkongames.github.io/blog/go-weiqi-igo-baduk.html)**, a very old strategy game that consists of capturing pieces and winning territories.
-
-<br>
 
 ## Technologies And Tools
 
