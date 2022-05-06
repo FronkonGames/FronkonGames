@@ -16,96 +16,31 @@ a indie game developer and asset store publisher
 
 <br>
 
-# Assets for Unity
+## Assets for Unity
 
-<div>
-<a href="https://fronkongames.github.io/store/one-bit.html"><img src="images/one-bit.png" alt="One Bit" width="300" align="left"/></a>
-<h3 align="right">
-A hipster, original and versatile look using a dithering with blue noise
-<br><br><br>
-<a href="https://fronkongames.github.io/store/demos/one-bit/">DEMO</a> | <a href="https://www.youtube.com/watch?v=WY10wS39GDw">YOUTUBE</a> | <a href="https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/onebit-216000">STORE</a>
-</h3>
-</div>
-  
-<br><br><br><br>
+* **[One Bit](https://fronkongames.github.io/store/one-bit.html)**, a hipster, original and versatile look using a dithering with blue noise (<a href="https://fronkongames.github.io/store/demos/one-bit/">demo</a>, <a href="https://www.youtube.com/watch?v=WY10wS39GDw">youtube</a> , <a href="https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/onebit-216000">store</a>).
+* **[Sprites Mojo](https://fronkongames.github.io/store/sprites-mojo.html)**, a collection of 2D effects to add more juice to your games (<a href="https://fronkongames.github.io/store/demos/sprites-mojo/">demo</a>, <a href="https://www.youtube.com/watch?v=4eyGdIvJxko">youtube</a>, <a href="https://assetstore.unity.com/packages/vfx/shaders/sprites-mojo-214468">store</a>).
 
-<h3>
-<a href="https://fronkongames.github.io/store/sprites-mojo.html"><img src="images/sprites-mojo.png" alt="Sprites Mojo" width="300" align="left"/></a>
-<p align="right">
-A collection of 2D effects to add more juice to your games
-<br><br>
-<a href="https://fronkongames.github.io/store/demos/sprites-mojo/">DEMO</a> | <a href="https://www.youtube.com/watch?v=4eyGdIvJxko">YOUTUBE</a> | <a href="https://assetstore.unity.com/packages/vfx/shaders/sprites-mojo-214468">STORE</a>
-</p>
-</h3>
+<br>
 
-<br><br><br><br>
+## Game Development
 
-<br><br>
+* **[Awesome GameDev](https://fronkongames.github.io/gamedev/awesome-game-development.html)**, a curated collection of resources to gamedev.
+* **[Game:Work Foundation](https://github.com/FronkonGames/GameWork-Foundation)**, generic code and tools to build the basis of a framework to develop Unity based games.
+* **[Design Patterns In Game Development](https://github.com/FronkonGames/GameWork-Foundation)**, a design pattern proposes a solution to a problem.
 
-# Game development
+<br>
 
+## Fun
 
-<h3>
-<a href="https://github.com/FronkonGames/Awesome-Gamedev"><img src="images/awesome-gamedev.png" alt="Awesome GameDev, an curated collection of resources to gamedev" width="300" align="left"/></a>
-<p align="right">
-A curated collection of resources to gamedev
-</p>
-</h3>
+* **[ML Game Ideas](https://github.com/FronkonGames/Machine-Learning-Game-Ideas)**, using neural networks built with Keras / Tensorflow and using over 70000 Steam game descriptions.
+* **[Steam Games Dataset](https://www.kaggle.com/datasets/fronkongames/steam-games-dataset)**, the largest dataset with information on games published on Steam.
+* **[Steam Games Scraper](https://github.com/FronkonGames/Steam-Games-Scraper)**, extract information from all games published in Steam thanks to its Web API, and store it in JSON format.
+* **[Go](https://fronkongames.github.io/blog/go-weiqi-igo-baduk.html)**, a very old strategy game that consists of capturing pieces and winning territories.
 
-<br><br><br><br><br><br><br><br><br><br>
+<br>
 
-<h3>
-<a href="https://github.com/FronkonGames/GameWork-Foundation"><img src="images/gamework-foundation.png" alt="Generic code to build the basis of a framework to develop Unity based games" width="300" align="left"/></a>
-<p align="right">
-Generic code and tools to build the basis of a framework to develop Unity based games
-</p>
-</h3>
-
-<br><br><br><br>
-
-<br><br>
-
-# Fun
-
-<h3>
-<a href="https://fronkongames.github.io/blog/go-weiqi-igo-baduk.html"><img src="https://fronkongames.github.io/blog/go-weiqi-igo-baduk/banner.jpg" alt="Introduction to Go" width="300" align="left"/></a>
-<p align="right">
-Go is a very old strategy game that consists of capturing pieces and winning territories
-</p>
-</h3>
-
-<br><br><br><br><br><br><br><br><br>
-
-<h3>
-<a href="https://github.com/FronkonGames/Machine-Learning-Game-Ideas"><img src="images/ml-game-ideas.png" alt="Game ideas generation using neural networks" width="300" align="left"/></a>
-<p align="right">
-Using neural networks built with Keras / Tensorflow and using over 70000 Steam game descriptions
-</p>
-</h3>
-
-<br><br><br><br><br><br><br>
-
-<h3>
-<a href="https://www.kaggle.com/datasets/fronkongames/steam-games-dataset"><img src="images/steam-games-dataset.png" alt="Steam Games Dataset" width="300" align="left"/></a>
-<p align="right">
-The largest dataset with information on games published on Steam
-</p>
-</h3>
-
-<br><br><br><br><br>
-
-<h3>
-<a href="https://github.com/FronkonGames/Steam-Games-Scraper"><img src="images/steam-games-scraper.png" alt="Steam Games Scraper" width="300" align="left"/></a>
-<p align="right">
-Extract information from all games published in Steam thanks to its Web API, and store it in JSON format
-</p>
-</h3>
-
-<br><br><br><br><br>
-
-<br><br>
-
-# Technologies and Tools
+## Technologies And Tools
 
 <p align="left">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
