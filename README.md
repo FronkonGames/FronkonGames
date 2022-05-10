@@ -23,7 +23,7 @@ a indie game developer and asset store publisher
 
 ## Game Development
 
-* **[Awesome GameDev](https://fronkongames.github.io/gamedev/awesome-game-development.html)**, a curated collection of resources to gamedev.
+* **[Awesome GameDev](https://github.com/FronkonGames/Awesome-Gamedev)**, a curated collection of resources to gamedev.
 * **Game:Work**, a modular framework with dependency injection to develop Unity based games.
   * **[Game:Work Core](https://github.com/FronkonGames/GameWork-Core)**, core of the framework.
   * **[Game:Work Foundation](https://github.com/FronkonGames/GameWork-Foundation)**, generic code and tools.
