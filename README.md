@@ -25,8 +25,10 @@ a indie game developer and asset store publisher
 
 * **[Awesome GameDev](https://github.com/FronkonGames/Awesome-Gamedev)**, a curated collection of resources to gamedev.
 * **Game:Work**, a modular framework with dependency injection to develop Unity based games.
-  * **[Game:Work Core](https://github.com/FronkonGames/GameWork-Core)**, core of the framework.
   * **[Game:Work Foundation](https://github.com/FronkonGames/GameWork-Foundation)**, generic code and tools.
+  * **[Game:Work Core](https://github.com/FronkonGames/GameWork-Core)**, core of the framework.
+  * Game:Work modules:
+    * **[Game:Work Scene Module](https://github.com/FronkonGames/GameWork-Scene-Module)**, scene loading management module.
 * **[Design Patterns In Game Development](https://github.com/FronkonGames/GameWork-Foundation)**, a tutorial on the use of Design Patterns in videogames.
 * **[Game Development Daily News](https://twitter.com/daily_unity)**, a Twitter bot with news, resources and job offers about game development (and its [Spanish version](https://twitter.com/MenendevBot)).
 * **[Unity Store Deals](https://twitter.com/UnityStoreDeals)**, a Twitter bot that searches for all asset offers in the Unity store.
