@@ -1,5 +1,5 @@
 <img align="center" src="images/github-banner.png">
-<h1 align="center">Hi <img src="images/hi.gif" width="25px">, I'm Martin Bustos<br>
+<h1 align="center">Hi <img src="images/hi.gif" width="10%">, I'm Martin Bustos<br>
 a indie game developer and asset store publisher
 </h1>
 <h3 align="center">
