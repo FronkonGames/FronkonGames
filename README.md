@@ -1,5 +1,5 @@
 <img align="center" src="images/github-banner.png">
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px">, I'm Martin Bustos<br>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">, I'm Martin Bustos<br>
 a indie game developer and asset store publisher
 </h1>
 <h3 align="center">
