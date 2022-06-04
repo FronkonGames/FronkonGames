@@ -25,12 +25,13 @@ a indie game developer and asset store publisher
 
 * **[Awesome GameDev](https://github.com/FronkonGames/Awesome-Gamedev)**, a curated collection of resources to gamedev.
 * **Game:Work**, a modular framework with dependency injection to develop Unity based games.
-  * **[Foundation](https://github.com/FronkonGames/GameWork-Foundation)**, generic code and tools.
-  * **[Core](https://github.com/FronkonGames/GameWork-Core)** of the framework: modules, events and DI.
-  * Modules:
-    * **[Scene](https://github.com/FronkonGames/GameWork-Scene-Module)**, async scene loading management module.
-    * **[Tween](https://github.com/FronkonGames/GameWork-Tween-Module)**, tween / easing module.
-    * **[AI](https://github.com/FronkonGames/GameWork-AI-Module)**, algorithms, structures and tools for AI.
+  * **[Foundation](https://github.com/FronkonGames/GameWork-Foundation)**: generic code and tools.
+  * **[Core](https://github.com/FronkonGames/GameWork-Core)**: modules, events and DI.
+  * Modules.
+    * **[Scene](https://github.com/FronkonGames/GameWork-Scene-Module)**: async scene loading management module.
+    * **[Tween](https://github.com/FronkonGames/GameWork-Tween-Module)**: tween / easing module.
+    * **[AI](https://github.com/FronkonGames/GameWork-AI-Module)**: algorithms, structures and tools for AI.
+    * **[Data Persistence](https://github.com/FronkonGames/GameWork-Data-Persistence)**: data persistence.
 * **[Design Patterns In Game Development](https://github.com/FronkonGames/GameWork-Foundation)**, a tutorial on the use of Design Patterns in videogames.
 * **[Game Development Daily News](https://twitter.com/daily_unity)**, a Twitter bot with news, resources and job offers about game development (and its [Spanish version](https://twitter.com/MenendevBot)).
 * **[Unity Store Deals](https://twitter.com/UnityStoreDeals)**, a Twitter bot that searches for all asset offers in the Unity store.
