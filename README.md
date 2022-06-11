@@ -46,39 +46,41 @@ a indie game developer and asset store publisher
 
 ## Games
 
-* **Baobab Planet (PC, Online)**, Freedom Factory Studios, CTO / Lead Game Programer.
-
-<center>
-
-[![Baobab Planet](https://img.youtube.com/vi/yXq3sCn2cjQ/0.jpg)](https://www.youtube.com/watch?v=yXq3sCn2cjQ)
-
-</center>
+#### **Naraba World (PC, Nintendo DS)**, Freedom Factory Studios, CTO / Lead Game Programer.
 
 <table>
   <tr>
+    <th><a href="https://www.youtube.com/watch?v=bF5DJOQkFPE"><img src="https://img.youtube.com/vi/bF5DJOQkFPE/0.jpg"></img></a></th>
+    <th><img alt="Naraba World" src="images/Naraba_0.jpg" width="374"></th>
+    <th><img alt="Naraba World" src="images/Naraba_1.jpg" width="374"></th>
+    <th><img alt="Naraba World" src="images/Naraba_2.jpg" width="374"></th>
+    <th><img alt="Naraba World" src="images/Naraba_3.jpg" width="374"></th>
+  </tr>
+</table>
+
+#### **Baobab Planet (PC, Online)**, Freedom Factory Studios, CTO / Lead Game Programer.
+
+<table>
+  <tr>
+    <th><a href="https://www.youtube.com/watch?v=yXq3sCn2cjQ"><img src="https://img.youtube.com/vi/yXq3sCn2cjQ/0.jpg"></img></a></th>
     <th><img alt="Baobab Planet" src="images/Baobab_0.jpg" width="374"></th>
     <th><img alt="Baobab Planet" src="images/Baobab_1.jpg" width="374"></th>
     <th><img alt="Baobab Planet" src="images/Baobab_2.jpg" width="374"></th>
   </tr>
 </table>
 
-* **Brico Party aka Fix It (PC, Wii, Nintendo DS)**, Freedom Factory Studios, CTO / Lead Game Programer.
-
-<center>
-
-[![Brico Party](https://img.youtube.com/vi/9j_7w6CLmjE/0.jpg)](https://www.youtube.com/watch?v=9j_7w6CLmjE)
-
-</center>
+#### **Brico Party aka Fix It (PC, Wii, Nintendo DS)**, Freedom Factory Studios, CTO / Lead Game Programer.
 
 <table>
   <tr>
+    <th><a href="https://www.youtube.com/watch?v=9j_7w6CLmjE"><img src="https://img.youtube.com/vi/9j_7w6CLmjE/0.jpg"></img></a></th>
     <th><img alt="Brico Party" src="images/Brico_0.jpg" width="374"></th>
     <th><img alt="Brico Party" src="images/Brico_1.jpg" width="374"></th>
     <th><img alt="Brico Party" src="images/Brico_2.jpg" width="374"></th>
   </tr>
 </table>
 
-* **Fritz Chess (PC, Wii, PS3)**, Freedom Factory Studios, CTO / Lead Game Programer.
+#### **Fritz Chess (PC, Wii, PS3)**, Freedom Factory Studios, CTO / Lead Game Programer.
 
 <table>
   <tr>
@@ -89,7 +91,7 @@ a indie game developer and asset store publisher
   </tr>
 </table>
 
-* **Cycling Evolution (PC)**, Freedom Factory Studios, CTO / Lead Game Programer.
+#### **Cycling Evolution (PC)**, Freedom Factory Studios, CTO / Lead Game Programer.
 
 <table>
   <tr>
@@ -99,16 +101,11 @@ a indie game developer and asset store publisher
   </tr>
 </table>
 
-* **Zed City (PC, Online)**, Play Wireless, Lead Game Programer.
-
-<center>
-
-[![Zed City](https://img.youtube.com/vi/b7MHK6iD2_0/0.jpg)](https://www.youtube.com/watch?v=b7MHK6iD2_0)
-
-</center>
+#### **Zed City (PC, Online)**, Play Wireless, Lead Game Programer.
 
 <table>
   <tr>
+    <th><a href="https://www.youtube.com/watch?v=b7MHK6iD2_0"><img src="https://img.youtube.com/vi/b7MHK6iD2_0/0.jpg"></img></a></th>
     <th><img alt="Zed City" src="images/ZedCity_0.jpg" width="374"></th>
     <th><img alt="Zed City" src="images/ZedCity_1.jpg" width="374"></th>
     <th><img alt="Zed City" src="images/ZedCity_2.jpg" width="374"></th>
@@ -117,7 +114,7 @@ a indie game developer and asset store publisher
   </tr>
 </table>
 
-* **Summer / Winter Battle (PC, Online)**, Bety Byte / Coca Cola, Game programmer and Tools.
+#### **Summer / Winter Battle (PC, Online)**, Bety Byte / Coca Cola, Game programmer and Tools.
 
 <table>
   <tr>
@@ -127,7 +124,7 @@ a indie game developer and asset store publisher
   </tr>
 </table>
 
-* **Hurakan Condor (PC, Online)**, Bety Byte / Port Aventura, Coca Cola, Game programmer and Tools.
+#### **Hurakan Condor (PC, Online)**, Bety Byte / Port Aventura, Coca Cola, Game programmer and Tools.
 
 <table>
   <tr>
@@ -135,7 +132,7 @@ a indie game developer and asset store publisher
   </tr>
 </table>
 
-* **Acción Rescate (PC)**, Bety Byte / Bimbo, Game programmer and Tools.
+#### **Acción Rescate (PC)**, Bety Byte / Bimbo, Game programmer and Tools.
 
 <table>
   <tr>
@@ -147,7 +144,7 @@ a indie game developer and asset store publisher
   </tr>
 </table>
 
-* **Futbol 11 (PC, Online)**, Bety Byte / Coca Cola, Game programmer and Tools.
+#### **Futbol 11 (PC, Online)**, Bety Byte / Coca Cola, Game programmer and Tools.
 
 <table>
   <tr>
@@ -156,7 +153,7 @@ a indie game developer and asset store publisher
   </tr>
 </table>
 
-* **Universal Mediterránea (PC)**, Bety Byte / Universal Warner Bros, Game programmer and Tools.
+#### **Universal Mediterránea (PC)**, Bety Byte / Universal Warner Bros, Game programmer and Tools.
 
 <table>
   <tr>
@@ -164,7 +161,7 @@ a indie game developer and asset store publisher
   </tr>
 </table>
 
-* **Tunnel Of Love (PC, Online)**, Bety Byte / Coca Cola, Game programmer and Tools.
+#### **Tunnel Of Love (PC, Online)**, Bety Byte / Coca Cola, Game programmer and Tools.
 
 <table>
   <tr>
@@ -174,7 +171,7 @@ a indie game developer and asset store publisher
   </tr>
 </table>
 
-* **PC Fútbol 2001 (PC)**, Dinamic Multimedia, Game programmer and 3DSMax Tools.
+#### **PC Fútbol 2001 (PC)**, Dinamic Multimedia, Game programmer and 3DSMax Tools.
 
 <table>
   <tr>
