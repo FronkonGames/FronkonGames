@@ -44,7 +44,7 @@ a indie game developer and asset store publisher
 * **[One Game Idea A Day](https://twitter.com/OneGameIdeaADa1)**, a Twitter bot that generates game ideas using Machine Learning.
 * **[Go](https://fronkongames.github.io/blog/go-weiqi-igo-baduk.html)**, a very old strategy game that consists of capturing pieces and winning territories.
 
-## Games
+## Games (published, no prototypes / abandoned / etc)
 
 #### **Powernauts (Android, iOS)**, Teachlabs, CTO / Lead Game Programer.
 
@@ -53,6 +53,16 @@ a indie game developer and asset store publisher
     <th><a href="https://www.youtube.com/watch?v=9cTPSxZqZfY"><img src="https://img.youtube.com/vi/9cTPSxZqZfY/0.jpg"></img></a></th>
     <th><img alt="Powernauts" src="images/Powernauts_0.jpg" width="374"></th>
     <th><img alt="Powernauts" src="images/Powernauts_1.jpg" width="374"></th>
+  </tr>
+</table>
+
+#### **World Of Cricket (Android, iOS)**, Appon Software, Audio.
+
+<table>
+  <tr>
+    <th><a href="https://www.youtube.com/watch?v=d2oGcu34vno"><img src="https://img.youtube.com/vi/d2oGcu34vno/0.jpg"></img></a></th>
+    <th><img alt="World Of Cricket" src="images/Cricket_0.jpg" width="374"></th>
+    <th><img alt="World Of Cricket" src="images/Cricket_1.jpg" width="374"></th>
   </tr>
 </table>
 
