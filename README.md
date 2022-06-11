@@ -46,7 +46,28 @@ a indie game developer and asset store publisher
 
 ## Games
 
-* **Zed City**, Play Wireless, Lead Game Programer.
+* **Fritz Chess (PC, Wii, PS3)**, Freedom Factory Studios, CTO / Lead Game Programer.
+
+<table>
+  <tr>
+    <th><img alt="Fritz Chess" src="images/Fritz_0.jpg" width="374"></th>
+    <th><img alt="Fritz Chess" src="images/Fritz_1.jpg" width="374"></th>
+    <th><img alt="Fritz Chess" src="images/Fritz_2.jpg" width="374"></th>
+    <th><img alt="Fritz Chess" src="images/Fritz_3.jpg" width="374"></th>
+  </tr>
+</table>
+
+* **Cycling Evolution (PC)**, Freedom Factory Studios, CTO / Lead Game Programer.
+
+<table>
+  <tr>
+    <th><img alt="Cycling Evolution" src="images/Cycling_0.jpg" width="374"></th>
+    <th><img alt="Cycling Evolution" src="images/Cycling_1.jpg" width="374"></th>
+    <th><img alt="Cycling Evolution" src="images/Cycling_2.jpg" width="374"></th>
+  </tr>
+</table>
+
+* **Zed City (PC, Online)**, Play Wireless, Lead Game Programer.
 
 <center>
 
@@ -63,7 +84,7 @@ a indie game developer and asset store publisher
   </tr>
 </table>
 
-* **Summer / Winter Battle**, Bety Byte / Coca Cola, Game programmer and Tools.
+* **Summer / Winter Battle (PC, Online)**, Bety Byte / Coca Cola, Game programmer and Tools.
 
 <table>
   <tr>
@@ -81,7 +102,7 @@ a indie game developer and asset store publisher
   </tr>
 </table>
 
-* **Acción Rescate**, Bety Byte / Bimbo, Game programmer and Tools.
+* **Acción Rescate (PC)**, Bety Byte / Bimbo, Game programmer and Tools.
 
 <table>
   <tr>
@@ -93,7 +114,7 @@ a indie game developer and asset store publisher
   </tr>
 </table>
 
-* **Futbol 11**, Bety Byte / Coca Cola, Game programmer and Tools.
+* **Futbol 11 (PC, Online)**, Bety Byte / Coca Cola, Game programmer and Tools.
 
 <table>
   <tr>
@@ -102,7 +123,7 @@ a indie game developer and asset store publisher
   </tr>
 </table>
 
-* **Universal Mediterránea**, Bety Byte / Universal Warner Bros, Game programmer and Tools.
+* **Universal Mediterránea (PC)**, Bety Byte / Universal Warner Bros, Game programmer and Tools.
 
 <table>
   <tr>
@@ -110,7 +131,7 @@ a indie game developer and asset store publisher
   </tr>
 </table>
 
-* **Tunnel Of Love**, Bety Byte / Coca Cola, Game programmer and Tools.
+* **Tunnel Of Love (PC, Online)**, Bety Byte / Coca Cola, Game programmer and Tools.
 
 <table>
   <tr>
@@ -120,7 +141,7 @@ a indie game developer and asset store publisher
   </tr>
 </table>
 
-* **PC Fútbol 2001**, Dinamic Multimedia, Game programmer and 3DSMax Tools.
+* **PC Fútbol 2001 (PC)**, Dinamic Multimedia, Game programmer and 3DSMax Tools.
 
 <table>
   <tr>
