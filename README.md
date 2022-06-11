@@ -46,6 +46,16 @@ a indie game developer and asset store publisher
 
 ## Games
 
+#### **Powernauts (Android, iOS)**, Teachlabs, CTO / Lead Game Programer.
+
+<table>
+  <tr>
+    <th><a href="https://www.youtube.com/watch?v=9cTPSxZqZfY"><img src="https://img.youtube.com/vi/9cTPSxZqZfY/0.jpg"></img></a></th>
+    <th><img alt="Powernauts" src="images/Powernauts_0.jpg" width="374"></th>
+    <th><img alt="Powernauts" src="images/Powernauts_1.jpg" width="374"></th>
+  </tr>
+</table>
+
 #### **Motorama (Steam)**, Freedom Factory Studios, CTO / Lead Game Programer.
 
 <table>
