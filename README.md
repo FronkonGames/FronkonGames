@@ -48,15 +48,18 @@ a indie game developer and asset store publisher
 
 * **Zed City**, Play Wireless, Lead Game Programer.
 
+<center>
+
+[![Zed City](https://img.youtube.com/vi/b7MHK6iD2_0/0.jpg)](https://www.youtube.com/watch?v=b7MHK6iD2_0)
+
+</center>
 <table>
   <tr>
     <th><img alt="Zed City" src="images/ZedCity_0.jpg" width="374"></th>
     <th><img alt="Zed City" src="images/ZedCity_1.jpg" width="374"></th>
     <th><img alt="Zed City" src="images/ZedCity_2.jpg" width="374"></th>
     <th><img alt="Zed City" src="images/ZedCity_3.jpg" width="374"></th>
-    <th><iframe src="https://www.youtube.com/watch?v=b7MHK6iD2_0" width="374"></th>
-    
-</iframe>
+    <th></th>
   </tr>
 </table>
 
