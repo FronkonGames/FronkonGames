@@ -46,6 +46,18 @@ a indie game developer and asset store publisher
 
 ## Games
 
+#### **Motorama (Steam)**, Freedom Factory Studios, CTO / Lead Game Programer.
+
+<table>
+  <tr>
+    <th><a href="https://www.youtube.com/watch?v=I_RbagXOpXk"><img src="https://img.youtube.com/vi/I_RbagXOpXk/0.jpg"></img></a></th>
+    <th><img alt="Motorama" src="images/Motorama_0.jpg" width="374"></th>
+    <th><img alt="Motorama" src="images/Motorama_1.jpg" width="374"></th>
+    <th><img alt="Motorama" src="images/Motorama_2.jpg" width="374"></th>
+    <th><img alt="Motorama" src="images/Motorama_3.jpg" width="374"></th>
+  </tr>
+</table>
+
 #### **Naraba World (PC, Nintendo DS)**, Freedom Factory Studios, CTO / Lead Game Programer.
 
 <table>
@@ -91,10 +103,11 @@ a indie game developer and asset store publisher
   </tr>
 </table>
 
-#### **Cycling Evolution (PC)**, Freedom Factory Studios, CTO / Lead Game Programer.
+#### **Cycling Evolution aka Radsport Evolution (PC)**, Freedom Factory Studios, CTO / Lead Game Programer.
 
 <table>
   <tr>
+    <th><a href="https://www.youtube.com/watch?v=IsHRIYzHxFo"><img src="https://img.youtube.com/vi/IsHRIYzHxFo/0.jpg"></img></a></th>
     <th><img alt="Cycling Evolution" src="images/Cycling_0.jpg" width="374"></th>
     <th><img alt="Cycling Evolution" src="images/Cycling_1.jpg" width="374"></th>
     <th><img alt="Cycling Evolution" src="images/Cycling_2.jpg" width="374"></th>
