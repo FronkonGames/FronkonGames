@@ -46,6 +46,38 @@ a indie game developer and asset store publisher
 
 ## Games
 
+* **Baobab Planet (PC, Online)**, Freedom Factory Studios, CTO / Lead Game Programer.
+
+<center>
+
+[![Baobab Planet](https://img.youtube.com/vi/yXq3sCn2cjQ/0.jpg)](https://www.youtube.com/watch?v=yXq3sCn2cjQ)
+
+</center>
+
+<table>
+  <tr>
+    <th><img alt="Baobab Planet" src="images/Baobab_0.jpg" width="374"></th>
+    <th><img alt="Baobab Planet" src="images/Baobab_1.jpg" width="374"></th>
+    <th><img alt="Baobab Planet" src="images/Baobab_2.jpg" width="374"></th>
+  </tr>
+</table>
+
+* **Brico Party aka Fix It (PC, Wii, Nintendo DS)**, Freedom Factory Studios, CTO / Lead Game Programer.
+
+<center>
+
+[![Brico Party](https://img.youtube.com/vi/9j_7w6CLmjE/0.jpg)](https://www.youtube.com/watch?v=9j_7w6CLmjE)
+
+</center>
+
+<table>
+  <tr>
+    <th><img alt="Brico Party" src="images/Brico_0.jpg" width="374"></th>
+    <th><img alt="Brico Party" src="images/Brico_1.jpg" width="374"></th>
+    <th><img alt="Brico Party" src="images/Brico_2.jpg" width="374"></th>
+  </tr>
+</table>
+
 * **Fritz Chess (PC, Wii, PS3)**, Freedom Factory Studios, CTO / Lead Game Programer.
 
 <table>
@@ -74,6 +106,7 @@ a indie game developer and asset store publisher
 [![Zed City](https://img.youtube.com/vi/b7MHK6iD2_0/0.jpg)](https://www.youtube.com/watch?v=b7MHK6iD2_0)
 
 </center>
+
 <table>
   <tr>
     <th><img alt="Zed City" src="images/ZedCity_0.jpg" width="374"></th>
@@ -94,7 +127,7 @@ a indie game developer and asset store publisher
   </tr>
 </table>
 
-* **Hurakan Condor**, Bety Byte / Port Aventura, Coca Cola, Game programmer and Tools.
+* **Hurakan Condor (PC, Online)**, Bety Byte / Port Aventura, Coca Cola, Game programmer and Tools.
 
 <table>
   <tr>
