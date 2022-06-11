@@ -46,7 +46,51 @@ a indie game developer and asset store publisher
 
 ## Games
 
-* **Futbol 11**, Byte Byte / Coca Cola, Game programmer and Tools.
+* **Zed City**, Play Wireless, Lead Game Programer.
+
+<table>
+  <tr>
+    <th><img alt="Zed City" src="images/ZedCity_0.jpg" width="374"></th>
+    <th><img alt="Zed City" src="images/ZedCity_1.jpg" width="374"></th>
+    <th><img alt="Zed City" src="images/ZedCity_2.jpg" width="374"></th>
+    <th><img alt="Zed City" src="images/ZedCity_3.jpg" width="374"></th>
+    <th><iframe src="https://www.youtube.com/watch?v=b7MHK6iD2_0" width="374"></th>
+    
+</iframe>
+  </tr>
+</table>
+
+* **Summer / Winter Battle**, Bety Byte / Coca Cola, Game programmer and Tools.
+
+<table>
+  <tr>
+    <th><img alt="Summer / Winter Battle" src="images/Battle_0.jpg" width="374"></th>
+    <th><img alt="Summer / Winter Battle" src="images/Battle_1.jpg" width="374"></th>
+    <th><img alt="Summer / Winter Battle" src="images/Battle_2.jpg" width="374"></th>
+  </tr>
+</table>
+
+* **Hurakan Condor**, Bety Byte / Port Aventura, Coca Cola, Game programmer and Tools.
+
+<table>
+  <tr>
+    <th><img alt="Hurakan Condor" src="images/HurakanCondor_0.jpg" width="374"></th>
+  </tr>
+</table>
+
+* **Acción Rescate**, Bety Byte / Bimbo, Game programmer and Tools.
+
+<table>
+  <tr>
+    <th><img alt="Accion Rescate" src="images/AccionRescate_0.jpg" width="374"></th>
+    <th><img alt="Accion Rescate" src="images/AccionRescate_1.jpg" width="374"></th>
+    <th><img alt="Accion Rescate" src="images/AccionRescate_2.jpg" width="374"></th>
+    <th><img alt="Accion Rescate" src="images/AccionRescate_3.jpg" width="374"></th>
+    <th><img alt="Accion Rescate" src="images/AccionRescate_4.jpg" width="374"></th>
+  </tr>
+</table>
+
+* **Futbol 11**, Bety Byte / Coca Cola, Game programmer and Tools.
 
 <table>
   <tr>
@@ -55,7 +99,7 @@ a indie game developer and asset store publisher
   </tr>
 </table>
 
-* **Universal Mediterránea**, Byte Byte / Universal Warner Bros, Game programmer and Tools.
+* **Universal Mediterránea**, Bety Byte / Universal Warner Bros, Game programmer and Tools.
 
 <table>
   <tr>
@@ -63,7 +107,7 @@ a indie game developer and asset store publisher
   </tr>
 </table>
 
-* **Tunnel Of Love**, Byte Byte / Coca Cola, Game programmer and Tools.
+* **Tunnel Of Love**, Bety Byte / Coca Cola, Game programmer and Tools.
 
 <table>
   <tr>
