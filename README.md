@@ -44,176 +44,181 @@ a indie game developer and asset store publisher
 * **[One Game Idea A Day](https://twitter.com/OneGameIdeaADa1)**, a Twitter bot that generates game ideas using Machine Learning.
 * **[Go](https://fronkongames.github.io/blog/go-weiqi-igo-baduk.html)**, a very old strategy game that consists of capturing pieces and winning territories.
 
-## Games (published, no prototypes / abandoned / etc)
+## Games published
 
-#### **Powernauts (Android, iOS)**, Teachlabs, CTO / Lead Game Programer.
+<details close>
+  <summary><b>Powernauts (Android, iOS)</b>, Teachlabs, CTO / Lead Game Programmer.</summary>
+  <table>
+    <tr>
+      <th><a href="https://www.youtube.com/watch?v=9cTPSxZqZfY"><img src="https://img.youtube.com/vi/9cTPSxZqZfY/0.jpg"></img></a></th>
+      <th><img alt="Powernauts" src="images/Powernauts_0.jpg" width="374"></th>
+      <th><img alt="Powernauts" src="images/Powernauts_1.jpg" width="374"></th>
+    </tr>
+  </table>
+</details>
 
-<table>
-  <tr>
-    <th><a href="https://www.youtube.com/watch?v=9cTPSxZqZfY"><img src="https://img.youtube.com/vi/9cTPSxZqZfY/0.jpg"></img></a></th>
-    <th><img alt="Powernauts" src="images/Powernauts_0.jpg" width="374"></th>
-    <th><img alt="Powernauts" src="images/Powernauts_1.jpg" width="374"></th>
-  </tr>
+<details close>
+  <summary><b>Motorama (Steam)</b>, Freedom Factory Studios, CTO / Lead Game Programmer.</summary>
+  <table>
+    <tr>
+      <th><a href="https://www.youtube.com/watch?v=I_RbagXOpXk"><img src="https://img.youtube.com/vi/I_RbagXOpXk/0.jpg"></img></a></th>
+      <th><img alt="Motorama" src="images/Motorama_0.jpg" width="374"></th>
+      <th><img alt="Motorama" src="images/Motorama_1.jpg" width="374"></th>
+      <th><img alt="Motorama" src="images/Motorama_2.jpg" width="374"></th>
+      <th><img alt="Motorama" src="images/Motorama_3.jpg" width="374"></th>
+    </tr>
+  </table>
+</details>
+
+<details close>
+  <summary><b>Naraba World (PC, Nintendo DS)</b>, Freedom Factory Studios, CTO / Lead Game Programmer.</summary>
+  <table>
+    <tr>
+      <th><a href="https://www.youtube.com/watch?v=bF5DJOQkFPE"><img src="https://img.youtube.com/vi/bF5DJOQkFPE/0.jpg"></img></a></th>
+      <th><img alt="Naraba World" src="images/Naraba_0.jpg" width="374"></th>
+      <th><img alt="Naraba World" src="images/Naraba_1.jpg" width="374"></th>
+      <th><img alt="Naraba World" src="images/Naraba_2.jpg" width="374"></th>
+      <th><img alt="Naraba World" src="images/Naraba_3.jpg" width="374"></th>
+    </tr>
+  </table>
+</details>
+
+<details close>
+  <summary><b>Baobab Planet (PC, Online)</b>, Freedom Factory Studios, CTO / Lead Game Programmer.</summary>
+  <table>
+    <tr>
+      <th><a href="https://www.youtube.com/watch?v=yXq3sCn2cjQ"><img src="https://img.youtube.com/vi/yXq3sCn2cjQ/0.jpg"></img></a></th>
+      <th><img alt="Baobab Planet" src="images/Baobab_0.jpg" width="374"></th>
+      <th><img alt="Baobab Planet" src="images/Baobab_1.jpg" width="374"></th>
+      <th><img alt="Baobab Planet" src="images/Baobab_2.jpg" width="374"></th>
+    </tr>
+  </table>
+</details>
+
+<details close>
+  <summary><b>Brico Party aka Fix It (PC, Wii, Nintendo DS)</b>, Freedom Factory Studios, CTO / Lead Game Programmer.</summary>
+  <table>
+    <tr>
+      <th><a href="https://www.youtube.com/watch?v=9j_7w6CLmjE"><img src="https://img.youtube.com/vi/9j_7w6CLmjE/0.jpg"></img></a></th>
+      <th><img alt="Brico Party" src="images/Brico_0.jpg" width="374"></th>
+      <th><img alt="Brico Party" src="images/Brico_1.jpg" width="374"></th>
+      <th><img alt="Brico Party" src="images/Brico_2.jpg" width="374"></th>
+    </tr>
+  </table>
+</details>
+
+<details close>
+  <summary><b>Fritz Chess (PC, Wii, PS3)</b>, Freedom Factory Studios, CTO / Lead Game Programmer.</summary>
+  <table>
+    <tr>
+      <th><img alt="Fritz Chess" src="images/Fritz_0.jpg" width="374"></th>
+      <th><img alt="Fritz Chess" src="images/Fritz_1.jpg" width="374"></th>
+      <th><img alt="Fritz Chess" src="images/Fritz_2.jpg" width="374"></th>
+      <th><img alt="Fritz Chess" src="images/Fritz_3.jpg" width="374"></th>
+    </tr>
+  </table>
+</details>
+
+<details close>
+  <summary><b>Cycling Evolution aka Radsport Evolution (PC)</b>, Freedom Factory Studios, CTO / Lead Game Programmer.</summary>
+  <table>
+    <tr>
+      <th><a href="https://www.youtube.com/watch?v=IsHRIYzHxFo"><img src="https://img.youtube.com/vi/IsHRIYzHxFo/0.jpg"></img></a></th>
+      <th><img alt="Cycling Evolution" src="images/Cycling_0.jpg" width="374"></th>
+      <th><img alt="Cycling Evolution" src="images/Cycling_1.jpg" width="374"></th>
+      <th><img alt="Cycling Evolution" src="images/Cycling_2.jpg" width="374"></th>
+    </tr>
+  </table>
+</details>
+
+<details close>
+  <summary><b>Zed City (PC, Online)</b>, Play Wireless, Lead Game Programmer.</summary>
+  <table>
+    <tr>
+      <th><a href="https://www.youtube.com/watch?v=b7MHK6iD2_0"><img src="https://img.youtube.com/vi/b7MHK6iD2_0/0.jpg"></img></a></th>
+      <th><img alt="Zed City" src="images/ZedCity_0.jpg" width="374"></th>
+      <th><img alt="Zed City" src="images/ZedCity_1.jpg" width="374"></th>
+      <th><img alt="Zed City" src="images/ZedCity_2.jpg" width="374"></th>
+      <th><img alt="Zed City" src="images/ZedCity_3.jpg" width="374"></th>
+      <th></th>
+    </tr>
+  </table>
+</details>
+
+<details close>
+  <summary><b>Summer / Winter Battle (PC, Online)</b>, Bety Byte / Coca Cola, Game programmer and Tools.</summary>
+  <table>
+    <tr>
+      <th><img alt="Summer / Winter Battle" src="images/Battle_0.jpg" width="374"></th>
+      <th><img alt="Summer / Winter Battle" src="images/Battle_1.jpg" width="374"></th>
+      <th><img alt="Summer / Winter Battle" src="images/Battle_2.jpg" width="374"></th>
+    </tr>
+  </table>
+</details>
+
+<details close>
+  <summary><b>Hurakan Condor (PC, Online)</b>, Bety Byte / Port Aventura, Coca Cola, Game programmer and Tools.</summary>
+  <table>
+    <tr>
+      <th><img alt="Hurakan Condor" src="images/HurakanCondor_0.jpg" width="374"></th>
+    </tr>
 </table>
+</details>
 
-#### **World Of Cricket (Android, iOS)**, Appon Software, Audio.
+<details close>
+  <summary><b>Acción Rescate (PC)</b>, Bety Byte / Bimbo, Game programmer and Tools.</summary>
+  <table>
+    <tr>
+      <th><img alt="Accion Rescate" src="images/AccionRescate_0.jpg" width="374"></th>
+      <th><img alt="Accion Rescate" src="images/AccionRescate_1.jpg" width="374"></th>
+      <th><img alt="Accion Rescate" src="images/AccionRescate_2.jpg" width="374"></th>
+      <th><img alt="Accion Rescate" src="images/AccionRescate_3.jpg" width="374"></th>
+      <th><img alt="Accion Rescate" src="images/AccionRescate_4.jpg" width="374"></th>
+    </tr>
+  </table>
+</details>
 
-<table>
-  <tr>
-    <th><a href="https://www.youtube.com/watch?v=d2oGcu34vno"><img src="https://img.youtube.com/vi/d2oGcu34vno/0.jpg"></img></a></th>
-    <th><img alt="World Of Cricket" src="images/Cricket_0.jpg" width="374"></th>
-    <th><img alt="World Of Cricket" src="images/Cricket_1.jpg" width="374"></th>
-  </tr>
-</table>
+<details close>
+  <summary><b>Futbol 11 (PC, Online)</b>, Bety Byte / Coca Cola, Game programmer and Tools.</summary>
+  <table>
+    <tr>
+      <th><img alt="Futbol 11" src="images/Futbol11_0.jpg" width="374"></th>
+      <th><img alt="Futbol 11" src="images/Futbol11_1.jpg" width="374"></th>
+    </tr>
+  </table>
+</details>
 
-#### **Motorama (Steam)**, Freedom Factory Studios, CTO / Lead Game Programer.
+<details close>
+  <summary><b>Universal Mediterránea (PC)</b>, Bety Byte / Universal Warner Bros, Game programmer and Tools.</summary>
+  <table>
+    <tr>
+      <th><img alt="Universal Mediterránea" src="images/UniversalMediterranea_0.jpg"></th>
+    </tr>
+  </table>
+</details>
 
-<table>
-  <tr>
-    <th><a href="https://www.youtube.com/watch?v=I_RbagXOpXk"><img src="https://img.youtube.com/vi/I_RbagXOpXk/0.jpg"></img></a></th>
-    <th><img alt="Motorama" src="images/Motorama_0.jpg" width="374"></th>
-    <th><img alt="Motorama" src="images/Motorama_1.jpg" width="374"></th>
-    <th><img alt="Motorama" src="images/Motorama_2.jpg" width="374"></th>
-    <th><img alt="Motorama" src="images/Motorama_3.jpg" width="374"></th>
-  </tr>
-</table>
+<details close>
+  <summary><b>Tunnel Of Love (PC, Online)</b>, Bety Byte / Coca Cola, Game programmer and Tools.</summary>
+  <table>
+    <tr>
+      <th><img alt="Tunnel Of Love" src="images/TunnelOfLove_0.jpg" width="374"></th>
+      <th><img alt="Tunnel Of Love" src="images/TunnelOfLove_1.jpg" width="374"></th>
+      <th><img alt="Tunnel Of Love" src="images/TunnelOfLove_2.jpg" width="374"></th>
+    </tr>
+  </table>
+</details>
 
-#### **Naraba World (PC, Nintendo DS)**, Freedom Factory Studios, CTO / Lead Game Programer.
-
-<table>
-  <tr>
-    <th><a href="https://www.youtube.com/watch?v=bF5DJOQkFPE"><img src="https://img.youtube.com/vi/bF5DJOQkFPE/0.jpg"></img></a></th>
-    <th><img alt="Naraba World" src="images/Naraba_0.jpg" width="374"></th>
-    <th><img alt="Naraba World" src="images/Naraba_1.jpg" width="374"></th>
-    <th><img alt="Naraba World" src="images/Naraba_2.jpg" width="374"></th>
-    <th><img alt="Naraba World" src="images/Naraba_3.jpg" width="374"></th>
-  </tr>
-</table>
-
-#### **Baobab Planet (PC, Online)**, Freedom Factory Studios, CTO / Lead Game Programer.
-
-<table>
-  <tr>
-    <th><a href="https://www.youtube.com/watch?v=yXq3sCn2cjQ"><img src="https://img.youtube.com/vi/yXq3sCn2cjQ/0.jpg"></img></a></th>
-    <th><img alt="Baobab Planet" src="images/Baobab_0.jpg" width="374"></th>
-    <th><img alt="Baobab Planet" src="images/Baobab_1.jpg" width="374"></th>
-    <th><img alt="Baobab Planet" src="images/Baobab_2.jpg" width="374"></th>
-  </tr>
-</table>
-
-#### **Brico Party aka Fix It (PC, Wii, Nintendo DS)**, Freedom Factory Studios, CTO / Lead Game Programer.
-
-<table>
-  <tr>
-    <th><a href="https://www.youtube.com/watch?v=9j_7w6CLmjE"><img src="https://img.youtube.com/vi/9j_7w6CLmjE/0.jpg"></img></a></th>
-    <th><img alt="Brico Party" src="images/Brico_0.jpg" width="374"></th>
-    <th><img alt="Brico Party" src="images/Brico_1.jpg" width="374"></th>
-    <th><img alt="Brico Party" src="images/Brico_2.jpg" width="374"></th>
-  </tr>
-</table>
-
-#### **Fritz Chess (PC, Wii, PS3)**, Freedom Factory Studios, CTO / Lead Game Programer.
-
-<table>
-  <tr>
-    <th><img alt="Fritz Chess" src="images/Fritz_0.jpg" width="374"></th>
-    <th><img alt="Fritz Chess" src="images/Fritz_1.jpg" width="374"></th>
-    <th><img alt="Fritz Chess" src="images/Fritz_2.jpg" width="374"></th>
-    <th><img alt="Fritz Chess" src="images/Fritz_3.jpg" width="374"></th>
-  </tr>
-</table>
-
-#### **Cycling Evolution aka Radsport Evolution (PC)**, Freedom Factory Studios, CTO / Lead Game Programer.
-
-<table>
-  <tr>
-    <th><a href="https://www.youtube.com/watch?v=IsHRIYzHxFo"><img src="https://img.youtube.com/vi/IsHRIYzHxFo/0.jpg"></img></a></th>
-    <th><img alt="Cycling Evolution" src="images/Cycling_0.jpg" width="374"></th>
-    <th><img alt="Cycling Evolution" src="images/Cycling_1.jpg" width="374"></th>
-    <th><img alt="Cycling Evolution" src="images/Cycling_2.jpg" width="374"></th>
-  </tr>
-</table>
-
-#### **Zed City (PC, Online)**, Play Wireless, Lead Game Programer.
-
-<table>
-  <tr>
-    <th><a href="https://www.youtube.com/watch?v=b7MHK6iD2_0"><img src="https://img.youtube.com/vi/b7MHK6iD2_0/0.jpg"></img></a></th>
-    <th><img alt="Zed City" src="images/ZedCity_0.jpg" width="374"></th>
-    <th><img alt="Zed City" src="images/ZedCity_1.jpg" width="374"></th>
-    <th><img alt="Zed City" src="images/ZedCity_2.jpg" width="374"></th>
-    <th><img alt="Zed City" src="images/ZedCity_3.jpg" width="374"></th>
-    <th></th>
-  </tr>
-</table>
-
-#### **Summer / Winter Battle (PC, Online)**, Bety Byte / Coca Cola, Game programmer and Tools.
-
-<table>
-  <tr>
-    <th><img alt="Summer / Winter Battle" src="images/Battle_0.jpg" width="374"></th>
-    <th><img alt="Summer / Winter Battle" src="images/Battle_1.jpg" width="374"></th>
-    <th><img alt="Summer / Winter Battle" src="images/Battle_2.jpg" width="374"></th>
-  </tr>
-</table>
-
-#### **Hurakan Condor (PC, Online)**, Bety Byte / Port Aventura, Coca Cola, Game programmer and Tools.
-
-<table>
-  <tr>
-    <th><img alt="Hurakan Condor" src="images/HurakanCondor_0.jpg" width="374"></th>
-  </tr>
-</table>
-
-#### **Acción Rescate (PC)**, Bety Byte / Bimbo, Game programmer and Tools.
-
-<table>
-  <tr>
-    <th><img alt="Accion Rescate" src="images/AccionRescate_0.jpg" width="374"></th>
-    <th><img alt="Accion Rescate" src="images/AccionRescate_1.jpg" width="374"></th>
-    <th><img alt="Accion Rescate" src="images/AccionRescate_2.jpg" width="374"></th>
-    <th><img alt="Accion Rescate" src="images/AccionRescate_3.jpg" width="374"></th>
-    <th><img alt="Accion Rescate" src="images/AccionRescate_4.jpg" width="374"></th>
-  </tr>
-</table>
-
-#### **Futbol 11 (PC, Online)**, Bety Byte / Coca Cola, Game programmer and Tools.
-
-<table>
-  <tr>
-    <th><img alt="Futbol 11" src="images/Futbol11_0.jpg" width="374"></th>
-    <th><img alt="Futbol 11" src="images/Futbol11_1.jpg" width="374"></th>
-  </tr>
-</table>
-
-#### **Universal Mediterránea (PC)**, Bety Byte / Universal Warner Bros, Game programmer and Tools.
-
-<table>
-  <tr>
-    <th><img alt="Universal Mediterránea" src="images/UniversalMediterranea_0.jpg"></th>
-  </tr>
-</table>
-
-#### **Tunnel Of Love (PC, Online)**, Bety Byte / Coca Cola, Game programmer and Tools.
-
-<table>
-  <tr>
-    <th><img alt="Tunnel Of Love" src="images/TunnelOfLove_0.jpg" width="374"></th>
-    <th><img alt="Tunnel Of Love" src="images/TunnelOfLove_1.jpg" width="374"></th>
-    <th><img alt="Tunnel Of Love" src="images/TunnelOfLove_2.jpg" width="374"></th>
-  </tr>
-</table>
-
-#### **PC Fútbol 2001 (PC)**, Dinamic Multimedia, Game programmer and 3DSMax Tools.
-
-<table>
-  <tr>
-    <th><img alt="PC Fútbol 2001" src="images/PCFutbol2001_0.jpg"></th>
-    <th><img alt="PC Fútbol 2001" src="images/PCFutbol2001_1.jpg"></th>
-    <th><img alt="PC Fútbol 2001" src="images/PCFutbol2001_2.jpg"></th>
-    <th><img alt="PC Fútbol 2001" src="images/PCFutbol2001_3.jpg"></th>
-  </tr>
-</table>
+<details close>
+  <summary><b>PC Fútbol 2001 (PC)</b>, Dinamic Multimedia, Game programmer and 3DSMax Tools.</summary>
+  <table>
+    <tr>
+      <th><img alt="PC Fútbol 2001" src="images/PCFutbol2001_0.jpg"></th>
+      <th><img alt="PC Fútbol 2001" src="images/PCFutbol2001_1.jpg"></th>
+      <th><img alt="PC Fútbol 2001" src="images/PCFutbol2001_2.jpg"></th>
+      <th><img alt="PC Fútbol 2001" src="images/PCFutbol2001_3.jpg"></th>
+    </tr>
+  </table>
+</details>
 
 ## Technologies And Tools
 
