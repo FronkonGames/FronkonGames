@@ -1,5 +1,5 @@
 <img align="center" src="images/github-banner.png">
-<h1 align="center">Hi <img src="images/hi.gif" width="4%">, I'm Martin Bustos<br>
+<h1 align="center">Hi <img src="images/hi.gif" width="3%">, I'm Martin Bustos<br>
 a indie game developer and asset store publisher
 </h1>
 <h3 align="center">
@@ -9,7 +9,6 @@ a indie game developer and asset store publisher
 </h3>
 
 ### 🔭 I’m currently working on **assets** and a **game framework**
-
 ### 📝 I write articles on [my web](https://fronkongames.github.io/)
 
 ### 💬 Ask me about **game development** and **Unity** (**fronkongames@gmail.com**)
