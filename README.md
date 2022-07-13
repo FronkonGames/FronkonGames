@@ -31,7 +31,7 @@ a indie game developer and asset store publisher
     * **[Scene](https://github.com/FronkonGames/GameWork-Scene)**: async scene loading management module.
     * **[Tween](https://github.com/FronkonGames/GameWork-Tween)**: tween / easing module.
     * **[AI](https://github.com/FronkonGames/GameWork-AI)**: algorithms, structures and tools for AI.
-    * **[Data Persistence](https://github.com/FronkonGames/GameWork-Local-Data)**: async local data save / load.
+    * **[Local Data](https://github.com/FronkonGames/GameWork-Local-Data)**: async local data save / load.
 * **[Design Patterns In Game Development](https://github.com/FronkonGames/GameWork-Foundation)**, a tutorial on the use of Design Patterns in videogames.
 * **[Game Development Daily News](https://twitter.com/daily_unity)**, a Twitter bot with news, resources and job offers about game development (and its [Spanish version](https://twitter.com/MenendevBot)).
 * **[Unity Store Deals](https://twitter.com/UnityStoreDeals)**, a Twitter bot that searches for all asset offers in the Unity store.
