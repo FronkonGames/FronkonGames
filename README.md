@@ -1,5 +1,5 @@
 <img align="center" src="images/github-banner.png">
-<h1 align="center">Hi <img src="images/hi.gif" width="20%">, I'm Martin Bustos<br>
+<h1 align="center">Hi <img src="images/hi.gif" width="2%" height="2%">, I'm Martin Bustos<br>
 a indie game developer and asset store publisher
 </h1>
 <h3 align="center">
@@ -15,14 +15,8 @@ a indie game developer and asset store publisher
 
 <br>
 
-## Assets for Unity
-
-* **[One Bit](https://fronkongames.github.io/store/one-bit.html)**, a hipster, original and versatile look using a dithering with blue noise (<a href="https://fronkongames.github.io/store/demos/one-bit/">demo</a>, <a href="https://www.youtube.com/watch?v=WY10wS39GDw">youtube</a> , <a href="https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/onebit-216000">store</a>).
-* **[Sprites Mojo](https://fronkongames.github.io/store/sprites-mojo.html)**, a collection of 2D effects to add more juice to your games (<a href="https://fronkongames.github.io/store/demos/sprites-mojo/">demo</a>, <a href="https://www.youtube.com/watch?v=4eyGdIvJxko">youtube</a>, <a href="https://assetstore.unity.com/packages/vfx/shaders/sprites-mojo-214468">store</a>).
-
 ## Game Development
 
-* **[Awesome GameDev](https://github.com/FronkonGames/Awesome-Gamedev)**, a curated collection of resources to gamedev.
 * **Game:Work**, a modular framework with dependency injection to develop Unity based games.
   * **[Foundation](https://github.com/FronkonGames/GameWork-Foundation)**: generic code and tools.
   * **[Core](https://github.com/FronkonGames/GameWork-Core)**: modules, events and DI.
@@ -30,7 +24,8 @@ a indie game developer and asset store publisher
     * **[Scene](https://github.com/FronkonGames/GameWork-Scene)**: async scene loading management module.
     * **[Tween](https://github.com/FronkonGames/GameWork-Tween)**: tween / easing module.
     * **[AI](https://github.com/FronkonGames/GameWork-AI)**: algorithms, structures and tools for AI.
-    * **[Local Data](https://github.com/FronkonGames/GameWork-Local-Data)**: async local data save / load.
+    * **[Local Data](https://github.com/FronkonGames/GameWork-Local-Data)**: async load/save local data with compression, encryption and integrity check.
+* **[Awesome GameDev](https://github.com/FronkonGames/Awesome-Gamedev)**, a curated collection of resources to gamedev.
 * **[Design Patterns In Game Development](https://github.com/FronkonGames/GameWork-Foundation)**, a tutorial on the use of Design Patterns in videogames.
 * **[Game Development Daily News](https://twitter.com/daily_unity)**, a Twitter bot with news, resources and job offers about game development (and its [Spanish version](https://twitter.com/MenendevBot)).
 * **[Unity Store Deals](https://twitter.com/UnityStoreDeals)**, a Twitter bot that searches for all asset offers in the Unity store.
@@ -42,6 +37,11 @@ a indie game developer and asset store publisher
 * **[Steam Games Scraper](https://github.com/FronkonGames/Steam-Games-Scraper)**, extract information from all games published in Steam thanks to its Web API, and store it in JSON format.
 * **[One Game Idea A Day](https://twitter.com/OneGameIdeaADa1)**, a Twitter bot that generates game ideas using Machine Learning.
 * **[Go](https://fronkongames.github.io/blog/go-weiqi-igo-baduk.html)**, a very old strategy game that consists of capturing pieces and winning territories.
+
+## Assets for Unity
+
+* **[One Bit](https://fronkongames.github.io/store/one-bit.html)**, a hipster, original and versatile look using a dithering with blue noise (<a href="https://fronkongames.github.io/store/demos/one-bit/">demo</a>, <a href="https://www.youtube.com/watch?v=WY10wS39GDw">youtube</a> , <a href="https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/onebit-216000">store</a>).
+* **[Sprites Mojo](https://fronkongames.github.io/store/sprites-mojo.html)**, a collection of 2D effects to add more juice to your games (<a href="https://fronkongames.github.io/store/demos/sprites-mojo/">demo</a>, <a href="https://www.youtube.com/watch?v=4eyGdIvJxko">youtube</a>, <a href="https://assetstore.unity.com/packages/vfx/shaders/sprites-mojo-214468">store</a>).
 
 ## Games published
 
