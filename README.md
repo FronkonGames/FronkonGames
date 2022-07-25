@@ -23,7 +23,6 @@ a indie game developer and asset store publisher
   * Modules.
     * **[Scene](https://github.com/FronkonGames/GameWork-Scene)**: async scene loading management module.
     * **[Tween](https://github.com/FronkonGames/GameWork-Tween)**: tween / easing module.
-    * **[AI](https://github.com/FronkonGames/GameWork-AI)**: algorithms, structures and tools for AI.
     * **[Local Data](https://github.com/FronkonGames/GameWork-Local-Data)**: async load/save local data with compression, encryption and integrity check.
 * **[Awesome GameDev](https://github.com/FronkonGames/Awesome-Gamedev)**, a curated collection of resources to gamedev.
 * **[Design Patterns In Game Development](https://github.com/FronkonGames/GameWork-Foundation)**, a tutorial on the use of Design Patterns in videogames.
