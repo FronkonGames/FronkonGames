@@ -8,10 +8,9 @@ a indie game developer and asset store publisher
   <img src="https://komarev.com/ghpvc/?username=fronkongames&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="fronkongames" />
 </h3>
 
-### 🔭 I’m currently working on **assets** and a **game framework**
-### 📝 I write articles on [my web](https://fronkongames.github.io/)
-
-### 💬 Ask me about **game development** and **Unity** (**fronkongames@gmail.com**)
+### 🔭 I am currently working on a [zombie card game](https://fronkongames.github.io/Dawn-Of-The-Cards/), a [gamework for game development](https://github.com/FronkonGames/GameWork-Foundation) and [assets for Unity](https://assetstore.unity.com/publishers/62716).
+### 📝 I write articles on [my web](https://fronkongames.github.io/).
+### 💬 Ask me about **game development** and **Unity** (**fronkongames@gmail.com**).
 
 <br>
 
@@ -21,9 +20,9 @@ a indie game developer and asset store publisher
   * **[Foundation](https://github.com/FronkonGames/GameWork-Foundation)**: generic code and tools.
   * **[Core](https://github.com/FronkonGames/GameWork-Core)**: modules, events and DI.
   * Modules.
+    * **[Local Data](https://github.com/FronkonGames/GameWork-Local-Data)**: async load/save local data with compression, encryption and integrity check.
     * **[Scene](https://github.com/FronkonGames/GameWork-Scene)**: async scene loading management module.
     * **[Tween](https://github.com/FronkonGames/GameWork-Tween)**: tween / easing module.
-    * **[Local Data](https://github.com/FronkonGames/GameWork-Local-Data)**: async load/save local data with compression, encryption and integrity check.
 * **[Awesome GameDev](https://github.com/FronkonGames/Awesome-Gamedev)**, a curated collection of resources to gamedev.
 * **[Design Patterns In Game Development](https://github.com/FronkonGames/GameWork-Foundation)**, a tutorial on the use of Design Patterns in videogames.
 * **[Game Development Daily News](https://twitter.com/daily_unity)**, a Twitter bot with news, resources and job offers about game development (and its [Spanish version](https://twitter.com/MenendevBot)).
