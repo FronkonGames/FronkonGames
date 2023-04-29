@@ -17,7 +17,7 @@ a indie game developer and asset store publisher
 ## Game Development
 
 * **Game:Work**, a framework to develop Unity based games.
-  * **[Foundation](https://github.com/FronkonGames/GameWork-Foundation)**: architecture-agnostic code and tools useful for developing Unity based games.
+  * **[Foundation](https://github.com/FronkonGames/GameWork-Foundation)**: architecture-agnostic code and tools.
   * **[Core](https://github.com/FronkonGames/GameWork-Core)**: a micro-kernel framework with dependency injection and event-driven communication.
   * Modules.
     * **[Local Data](https://github.com/FronkonGames/GameWork-Local-Data)**: async load/save local data with compression, encryption and integrity check.
