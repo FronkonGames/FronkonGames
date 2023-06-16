@@ -19,14 +19,19 @@ a indie game developer and asset store publisher
 * **Game:Work**, a framework to develop Unity based games.
   * **[Foundation](https://github.com/FronkonGames/GameWork-Foundation)**: architecture-agnostic code and tools.
   * **[Core](https://github.com/FronkonGames/GameWork-Core)**: a micro-kernel framework with dependency injection and event-driven communication.
-  * Modules.
+  * Modules:
     * **[Local Data](https://github.com/FronkonGames/GameWork-Local-Data)**: async load/save local data with compression, encryption and integrity check.
     * **[Scene](https://github.com/FronkonGames/GameWork-Scene)**: async scene loading management module.
     * **[Tween](https://github.com/FronkonGames/GameWork-Tween)**: tween / easing module.
+
 * **[Awesome GameDev](https://github.com/FronkonGames/Awesome-Gamedev)**, a curated collection of resources to gamedev.
 * **[Design Patterns In Game Development](https://github.com/FronkonGames/GameWork-Foundation)**, a tutorial on the use of Design Patterns in videogames.
-* **[Game Development Daily News](https://twitter.com/daily_unity)**, a Twitter bot with news, resources and job offers about game development (and its [Spanish version](https://twitter.com/MenendevBot)).
-* **[Unity Store Deals](https://twitter.com/UnityStoreDeals)**, a Twitter bot that searches for all asset offers in the Unity store.
+
+* **Twitter Bots**, related to game development.
+  * **[One Game Idea A Day](https://twitter.com/OneGameIdeaADa1)**, generates game ideas using Machine Learning.
+  * **[Game Development Daily News](https://twitter.com/daily_unity)**: news, resources and job offers about game development (and its [Spanish version](https://twitter.com/MenendevBot)).
+  * **[Unity Store Deals](https://twitter.com/UnityStoreDeals)**, searches for all asset offers in the Unity Store.
+  * **[Cant Refuse Offer](https://twitter.com/CantRefuseOffer)**, Unity Store assets with good ratings and offers.
 
 ## Assets for Unity
 
@@ -58,10 +63,9 @@ a indie game developer and asset store publisher
 
 ## Fun
 
-* **[ML Game Ideas](https://github.com/FronkonGames/Machine-Learning-Game-Ideas)**, using neural networks built with Keras / Tensorflow and using over 70000 Steam game descriptions.
+* **[ML Game Ideas](https://github.com/FronkonGames/Machine-Learning-Game-Ideas)**, using neural networks built with Keras / Tensorflow and using over 74000 Steam game descriptions.
 * **[Steam Games Dataset](https://www.kaggle.com/datasets/fronkongames/steam-games-dataset)**, the largest dataset with information on games published on Steam.
 * **[Steam Games Scraper](https://github.com/FronkonGames/Steam-Games-Scraper)**, extract information from all games published in Steam thanks to its Web API, and store it in JSON format.
-* **[One Game Idea A Day](https://twitter.com/OneGameIdeaADa1)**, a Twitter bot that generates game ideas using Machine Learning.
 * **[Go](https://fronkongames.github.io/blog/go-weiqi-igo-baduk.html)**, a very old strategy game that consists of capturing pieces and winning territories.
 
 ## Games published
