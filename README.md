@@ -30,6 +30,10 @@ a indie game developer and asset store publisher
 
 ## Assets for Unity
 
+* **Artistic Bundle**, anhance your creativity and get a unique style with this effects bundle.
+  * **[One Bit](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/artistic-one-bit-216000)**, a hipster, original and versatile look using a dithering with blue noise ([demo](https://fronkongames.github.io/store/demos/onebit/), [youtube](https://www.youtube.com/watch?v=Yz9j7iXuDhY)).
+  * **[Sprites Mojo](https://fronkongames.github.io/store/sprites-mojo.html)**, a collection of 2D effects to add more juice to your games ([demo](https://fronkongames.github.io/store/demos/sprites-mojo/), [youtube](https://www.youtube.com/watch?v=4eyGdIvJxko)).
+
 * **Spice Up Bundle**, a large selection of effects to give juice to your FPS / VR games.
   * **[Damage](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/spice-up-damage-247019)**, a visual indicator of health and damage received (<a href="https://fronkongames.github.io/store/demos/damage/">demo</a>, <a href="https://www.youtube.com/watch?v=rChUFliVX_E">youtube</a>).
   * **[Drunk](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/spice-up-drunk-247929)**, now you can let players know that they are drinking too much (<a href="https://fronkongames.github.io/store/demos/drunk/">demo</a>, <a href="https://www.youtube.com/watch?v=L7agg4NP7XU">youtube</a>).
@@ -40,6 +44,8 @@ a indie game developer and asset store publisher
   * **[Double Vision](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/spice-up-double-vision-252006)**, dual vision effect with steroids (<a href="https://fronkongames.github.io/store/demos/doublevision/">demo</a>, <a href="https://www.youtube.com/watch?v=FPELiWUmtw4">youtube</a>).
   * **[Rain](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/spice-up-rain-252460)**, simulates the raindrops on the screen ([demo](https://fronkongames.github.io/store/demos/rain/), [youtube](https://www.youtube.com/watch?v=DKMAa_LY7yU)).
   * **[Ghost Vision](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/spice-up-ghost-vision-252730)**, the vision of strange creatures ([demo](https://fronkongames.github.io/store/demos/ghostvision/), [youtube](https://www.youtube.com/watch?v=NyqkpzdqkNU)).
+  * **[Scanner](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/spice-up-scanner-253706)**, cameras, monitors and robots ([demo](https://fronkongames.github.io/store/demos/scanner/), [youtube](https://www.youtube.com/watch?v=cudFCcHb_HY)).
+
 * **[Retro Bundle](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/retro-bundle-245493)**, a great collection of retro effects, simple to use and with many configuration options (<a href="https://www.youtube.com/watch?v=FPn7dk3fkG4">youtube</a>).
   * **[ASCII](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/retro-ascii-241924)**, the old-school ASCII effect with steroids! (<a href="https://fronkongames.github.io/store/demos/ascii/">demo</a>, <a href="https://www.youtube.com/watch?v=shQxDDe8Aw4">youtube</a>).
   * **[CRT TV](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/retro-crt-tv-241411)**, makes your game look like on an old television (<a href="https://fronkongames.github.io/store/demos/crttv/">demo</a>, <a href="https://www.youtube.com/watch?v=UFFvtpXdUBc">youtube</a>).
@@ -49,8 +55,6 @@ a indie game developer and asset store publisher
   * **[Vintage Filters](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/retro-vintage-filters-242600)**, a great collection of vintage filters inspired by Instagram effects (<a href="https://fronkongames.github.io/store/demos/vintagefilters/">demo</a>, <a href="https://www.youtube.com/watch?v=YXMNQn7cu8I">youtube</a>).
   * **[Old Computers](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/retro-old-computers-243911)**, emulates the color palettes of old 8-bit and 16-bit computers (<a href="https://fronkongames.github.io/store/demos/oldcomputers/">demo</a>, <a href="https://www.youtube.com/watch?v=_gADYOdLbL4">youtube</a>).
   * **[VHS](https://assetstore.unity.com/packages/slug/244944)**, mimic VHS as true as possible (<a href="https://fronkongames.github.io/store/demos/vhs/">demo</a>, <a href="https://www.youtube.com/watch?v=LH9KDnOq0dg">youtube</a>).
-* **[One Bit](https://fronkongames.github.io/store/one-bit.html)**, a hipster, original and versatile look using a dithering with blue noise (<a href="https://fronkongames.github.io/store/demos/one-bit/">demo</a>, <a href="https://www.youtube.com/watch?v=WY10wS39GDw">youtube</a>).
-* **[Sprites Mojo](https://fronkongames.github.io/store/sprites-mojo.html)**, a collection of 2D effects to add more juice to your games (<a href="https://fronkongames.github.io/store/demos/sprites-mojo/">demo</a>, <a href="https://www.youtube.com/watch?v=4eyGdIvJxko">youtube</a>).
 
 ## Fun
 
