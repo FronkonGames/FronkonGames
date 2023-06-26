@@ -29,7 +29,7 @@ a indie game developer and asset store publisher
 
 * **Twitter Bots**, related to game development.
   * **[One Game Idea A Day](https://twitter.com/OneGameIdeaADa1)**, generates game ideas using Machine Learning.
-  * **[Game Development Daily News](https://twitter.com/daily_unity)**: news, resources and job offers about game development (and its [Spanish version](https://twitter.com/MenendevBot)).
+  * **[Game Development Daily News](https://twitter.com/daily_unity)**, news, resources and job offers about game development (and its [Spanish version](https://twitter.com/MenendevBot)).
   * **[Unity Store Deals](https://twitter.com/UnityStoreDeals)**, searches for all asset offers in the Unity Store.
   * **[Cant Refuse Offer](https://twitter.com/CantRefuseOffer)**, Unity Store assets with good ratings and offers.
 
@@ -50,6 +50,7 @@ a indie game developer and asset store publisher
   * **[Rain](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/spice-up-rain-252460)**, simulates the raindrops on the screen ([demo](https://fronkongames.github.io/store/demos/rain/), [youtube](https://www.youtube.com/watch?v=DKMAa_LY7yU)).
   * **[Ghost Vision](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/spice-up-ghost-vision-252730)**, the vision of strange creatures ([demo](https://fronkongames.github.io/store/demos/ghostvision/), [youtube](https://www.youtube.com/watch?v=NyqkpzdqkNU)).
   * **[Scanner](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/spice-up-scanner-253706)**, cameras, monitors and robots ([demo](https://fronkongames.github.io/store/demos/scanner/), [youtube](https://www.youtube.com/watch?v=cudFCcHb_HY)).
+  * **[Death Screen](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/spice-up-death-screen-254360)**, the last screen ([demo](https://fronkongames.github.io/store/demos/deathscreen/), [youtube](https://www.youtube.com/watch?v=ewXstV38FWc)).
 
 * **[Retro Bundle](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/retro-bundle-245493)**, a great collection of retro effects, simple to use and with many configuration options (<a href="https://www.youtube.com/watch?v=FPn7dk3fkG4">youtube</a>).
   * **[ASCII](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/retro-ascii-241924)**, the old-school ASCII effect with steroids! (<a href="https://fronkongames.github.io/store/demos/ascii/">demo</a>, <a href="https://www.youtube.com/watch?v=shQxDDe8Aw4">youtube</a>).
