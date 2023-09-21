@@ -1,6 +1,6 @@
 ![Header](images/github-banner.png)
 
-## Hi I'm Martin Bustos, a indie game developer and asset store publisher
+Hi :wave: I'm Martin Bustos, a indie game developer and asset store publisher
 
 <a href="https://twitter.com/fronkongames" target="_blank">![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)</a> <a href="https://www.linkedin.com/in/martinbr" target="_blank">![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)</a> ![](https://komarev.com/ghpvc/?username=fronkongames&label=Profile%20views&color=0e75b6&style=for-the-badge)
 
