@@ -1,3 +1,5 @@
+<h2>
+
 <div align="center">
 
 ![Header](images/github-banner.png)
@@ -10,13 +12,10 @@ Hi :wave: I'm Martin Bustos, a indie game developer and asset store publisher
 
 </div>
 
-<h2>
 
 * :telescope: I am currently working on a [zombie card game](https://fronkongames.github.io/Dawn-Of-The-Cards/), a [framework for game development](https://github.com/FronkonGames/GameWork-Foundation) and [assets for Unity](https://assetstore.unity.com/publishers/62716).
 * :memo: I write articles on [my web](https://fronkongames.github.io/).
 * :speech_balloon: Ask me about **game development** and **Unity** (**fronkongames@gmail.com**).
-
-</h2>
 
 ## Game Development
 
@@ -271,6 +270,8 @@ Hi :wave: I'm Martin Bustos, a indie game developer and asset store publisher
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="Visual Studio Code" width="40" height="40"/>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
+
+</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" />
