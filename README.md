@@ -40,6 +40,7 @@ Hi :wave: I'm Martin Bustos, a indie game developer and asset store publisher
 * **Artistic Bundle**, anhance your creativity and get a unique style with this effects bundle.
   * **[Oil Paint](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/artistic-oil-paint-264134)**, transform your games into pieces of art ([demo](https://fronkongames.github.io/demos-artistic/oilpaint/), [youtube](https://www.youtube.com/watch?v=A9jtFpXo02Q)).
   * **[One Bit](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/artistic-one-bit-216000)**, a hipster, original and versatile look using a dithering with blue noise ([demo](https://fronkongames.github.io/demos-artistic/onebit/), [youtube](https://www.youtube.com/watch?v=Yz9j7iXuDhY)).
+  * **[Tilt Shift](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/artistic-tilt-shift-265465)**, tilt-shift style miniature scenese ([demo](https://fronkongames.github.io/demos-artistic/tiltshift/), [youtube](https://www.youtube.com/watch?v=ixqjMNnUSus)).
   * **[Sprites Mojo](https://fronkongames.github.io/store/sprites-mojo.html)**, a collection of 2D effects to add more juice to your games ([demo](https://fronkongames.github.io/demos-artistic/sprites-mojo/), [youtube](https://www.youtube.com/watch?v=4eyGdIvJxko)).
 
 * **Spice Up Bundle**, a large selection of effects to give juice to your FPS / VR games.
