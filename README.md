@@ -30,7 +30,7 @@ Hi :wave: I'm Martin Bustos, a indie game developer and asset store publisher
   * **[Tiny Tweens](https://gist.github.com/FronkonGames/ae3d0d613ac4ea6738e288c0a490c020)**: a complete and easy to use Tweens library in one file.
 
 * **[Awesome GameDev](https://github.com/FronkonGames/Awesome-Gamedev)**, a curated collection of resources to gamedev.
-* **[Steam Games Dataset](https://www.kaggle.com/datasets/fronkongames/steam-games-dataset)**, the largest dataset with information on games published on Steam.
+* **[Steam Games Dataset](https://huggingface.co/datasets/FronkonGames/steam-games-dataset)**, the largest dataset with information on games published on Steam.
 * **[Design Patterns In Game Development](https://github.com/FronkonGames/GameWork-Foundation)**, a tutorial on the use of Design Patterns in videogames.
 
 * **Twitter Bots**, related to game development:
@@ -44,7 +44,7 @@ Hi :wave: I'm Martin Bustos, a indie game developer and asset store publisher
 * **Artistic Bundle**, anhance your creativity and get a unique style with this effects bundle.
   * **[Oil Paint](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/artistic-oil-paint-264134)**, transform your games into pieces of art ([demo](https://fronkongames.github.io/demos-artistic/oilpaint/), [youtube](https://www.youtube.com/watch?v=A9jtFpXo02Q)).
   * **[One Bit](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/artistic-one-bit-216000)**, a hipster, original and versatile look using a dithering with blue noise ([demo](https://fronkongames.github.io/demos-artistic/onebit/), [youtube](https://www.youtube.com/watch?v=Yz9j7iXuDhY)).
-  * **[Tilt Shift](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/artistic-tilt-shift-265465)**, tilt-shift style miniature scenese ([demo](https://fronkongames.github.io/demos-artistic/tiltshift/), [youtube](https://www.youtube.com/watch?v=ixqjMNnUSus)).
+  * **[Tilt Shift](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/artistic-tilt-shift-265465)**, tilt-shift style miniature scene ([demo](https://fronkongames.github.io/demos-artistic/tiltshift/), [youtube](https://www.youtube.com/watch?v=ixqjMNnUSus)).
   * **[Color Isolation](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/artistic-color-isolation-266086)**, isolates areas by color and applies effects ([demo](https://fronkongames.github.io/demos-artistic/colorisolation/), [youtube](https://www.youtube.com/watch?v=XfHdKU1qTF4)).
   * **[Sharpen](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/artistic-sharpen-266728)**, vibrant details, crisp images ([demo](https://fronkongames.github.io/demos-artistic/sharpen/), [youtube](https://www.youtube.com/watch?v=Xjax-orCmVY)).
   * **[Tonemapper](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/artistic-tonemapper-267617)**, maps HDR into LDR using different algorithms ([demo](https://fronkongames.github.io/demos-artistic/tonemapper/), [youtube](https://www.youtube.com/watch?v=XcLXlvqG5yU)).
