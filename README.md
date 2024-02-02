@@ -27,11 +27,13 @@ Hi :wave: I'm Martin Bustos, a indie game developer and asset store publisher
 * **Tools**, utilities for video game development.
   * **[Build History](https://github.com/FronkonGames/Build-History)**: keep a history of all the builds you do.
   * **[Tiny Tweens](https://gist.github.com/FronkonGames/ae3d0d613ac4ea6738e288c0a490c020)**: a complete and easy to use Tweens library in one file.
-* **[Awesome GameDev](https://github.com/FronkonGames/Awesome-Gamedev)**, a curated collection of resources to gamedev.
-* **[Global Game Jam Dataset](https://huggingface.co/datasets/FronkonGames/Global-Game-Jam-Dataset)**, information about games and participants of the '[Global Game Jam](https://globalgamejam.org/)'.
-* **[Steam Games Dataset](https://huggingface.co/datasets/FronkonGames/steam-games-dataset)**, the largest dataset with information on games published on Steam.
-* **[Design Patterns In Game Development](https://github.com/FronkonGames/GameWork-Foundation)**, a tutorial on the use of Design Patterns in videogames.
-* **Twitter Bots**, related to game development:
+* **Datasets**, related to video game development.
+  * **[Global Game Jam Dataset](https://huggingface.co/datasets/FronkonGames/Global-Game-Jam-Dataset)**, information about games and participants of the '[Global Game Jam](https://globalgamejam.org/)'.
+  * **[Steam Games Dataset](https://huggingface.co/datasets/FronkonGames/steam-games-dataset)**, the largest dataset with information on games published on Steam.
+* **Articles**.
+  * **[Awesome GameDev](https://github.com/FronkonGames/Awesome-Gamedev)**, a curated collection of resources to game development.
+  * **[Design Patterns In Game Development](https://github.com/FronkonGames/GameWork-Foundation)**, a tutorial on the use of Design Patterns in game development.
+* **Twitter Bots**, related to game development.
   * **[One Game Idea A Day](https://twitter.com/OneGameIdeaADa1)**, generates game ideas using Machine Learning.
   * **[Game Development Daily News](https://twitter.com/daily_unity)**, news, resources and job offers about game development (and its [Spanish version](https://twitter.com/MenendevBot)).
   * **[Unity Store Deals](https://twitter.com/UnityStoreDeals)**, searches for all asset offers in the Unity Store.
