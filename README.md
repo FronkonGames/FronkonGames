@@ -28,8 +28,8 @@ Hi :wave: I'm Martin Bustos, a indie game developer and asset store publisher
   * **[Build History](https://github.com/FronkonGames/Build-History)**: keep a history of all the builds you do.
   * **[Tiny Tweens](https://gist.github.com/FronkonGames/ae3d0d613ac4ea6738e288c0a490c020)**: a complete and easy to use Tweens library in one file.
 * **Datasets**, related to video game development.
-  * **[Global Game Jam Dataset](https://huggingface.co/datasets/FronkonGames/Global-Game-Jam-Dataset)**, information about games and participants of the '[Global Game Jam](https://globalgamejam.org/)'.
-  * **[Steam Games Dataset](https://huggingface.co/datasets/FronkonGames/steam-games-dataset)**, the largest dataset with information on games published on Steam.
+  * **Global Game Jam Dataset** ([huggingface](https://huggingface.co/datasets/FronkonGames/Global-Game-Jam-Dataset), [kaggle](https://www.kaggle.com/datasets/fronkongames/global-game-jam-dataset)), information about games and participants of the '[Global Game Jam](https://globalgamejam.org/)'.
+  * **Steam Games Dataset** ([huggingface](https://huggingface.co/datasets/FronkonGames/steam-games-dataset), [kaggle](https://www.kaggle.com/datasets/fronkongames/steam-games-dataset)), the largest dataset with information on games published on Steam.
 * **Articles**.
   * **[Awesome GameDev](https://github.com/FronkonGames/Awesome-Gamedev)**, a curated collection of resources to game development.
   * **[Design Patterns In Game Development](https://github.com/FronkonGames/GameWork-Foundation)**, a tutorial on the use of Design Patterns in game development.
