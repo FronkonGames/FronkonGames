@@ -52,7 +52,6 @@ Hi :wave: I'm Martin Bustos, a indie game developer and asset store publisher
   * **[Neon](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/artistic-neon-270269)**, neon synthwave effect ([demo](https://fronkongames.github.io/demos-artistic/neon/), [youtube](https://www.youtube.com/watch?v=nNVYDesYfF8)).
   * **[Spark](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/artistic-spark-270898)**, adds bloom and ray-of-light effects ([demo](https://fronkongames.github.io/demos-artistic/spark/), [youtube](https://www.youtube.com/watch?v=kgwMRlHzGxs)).
   * **[Radial Blur](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/artistic-radial-blur-271547)**, increases the feeling of speed and adrenaline ([demo](https://fronkongames.github.io/demos-artistic/radialblur/), [youtube](https://www.youtube.com/watch?v=rSE8fjbire4)).
-  * **[Sprites Mojo](https://assetstore.unity.com/packages/vfx/shaders/sprites-mojo-214468)**, a collection of 2D effects to add more juice to your games ([demo](https://fronkongames.github.io/demos-artistic/sprites-mojo/), [youtube](https://www.youtube.com/watch?v=4eyGdIvJxko)).
 
 * **[Spice Up Bundle](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/spice-up-bundle-262333)**, a large selection of effects to give juice to your games ([youtube](https://www.youtube.com/watch?v=jXgT-2tXmgI)).
   * **[Damage](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/spice-up-damage-247019)**, a visual indicator of health and damage received (<a href="https://fronkongames.github.io/demos-spiceup/damage/">demo</a>, <a href="https://www.youtube.com/watch?v=rChUFliVX_E">youtube</a>).
@@ -83,6 +82,8 @@ Hi :wave: I'm Martin Bustos, a indie game developer and asset store publisher
   * **[Vintage Filters](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/retro-vintage-filters-242600)**, a great collection of vintage filters inspired by Instagram effects (<a href="https://fronkongames.github.io/demos-retro/vintagefilters/">demo</a>, <a href="https://www.youtube.com/watch?v=YXMNQn7cu8I">youtube</a>).
   * **[Old Computers](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/retro-old-computers-243911)**, emulates the color palettes of old 8-bit and 16-bit computers (<a href="https://fronkongames.github.io/demos-retro/oldcomputers/">demo</a>, <a href="https://www.youtube.com/watch?v=_gADYOdLbL4">youtube</a>).
   * **[VHS](https://assetstore.unity.com/packages/slug/244944)**, mimic VHS as true as possible (<a href="https://fronkongames.github.io/demos-retro/vhs/">demo</a>, <a href="https://www.youtube.com/watch?v=LH9KDnOq0dg">youtube</a>).
+
+* **[Sprites Mojo](https://assetstore.unity.com/packages/vfx/shaders/sprites-mojo-214468)**, a collection of 2D effects to add more juice to your games ([demo](https://fronkongames.github.io/demos-artistic/sprites-mojo/), [youtube](https://www.youtube.com/watch?v=4eyGdIvJxko)).
 
 ## Fun
 
