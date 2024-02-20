@@ -41,7 +41,7 @@ Hi :wave: I'm Martin Bustos, a indie game developer and asset store publisher
 
 ## Assets for Unity
 
-* **Artistic Bundle**, enhance your creativity and get a unique style with this effects bundle.
+* **[Artistic Bundle](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/artistic-bundle-272266)**, enhance your creativity and get a unique style with this effects bundle.
   * **[Oil Paint](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/artistic-oil-paint-264134)**, transform your games into pieces of art ([demo](https://fronkongames.github.io/demos-artistic/oilpaint/), [youtube](https://www.youtube.com/watch?v=A9jtFpXo02Q)).
   * **[One Bit](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/artistic-one-bit-216000)**, a hipster, original and versatile look using a dithering with blue noise ([demo](https://fronkongames.github.io/demos-artistic/onebit/), [youtube](https://www.youtube.com/watch?v=Yz9j7iXuDhY)).
   * **[Tilt Shift](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/artistic-tilt-shift-265465)**, tilt-shift style miniature scene ([demo](https://fronkongames.github.io/demos-artistic/tiltshift/), [youtube](https://www.youtube.com/watch?v=ixqjMNnUSus)).
@@ -82,6 +82,12 @@ Hi :wave: I'm Martin Bustos, a indie game developer and asset store publisher
   * **[Vintage Filters](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/retro-vintage-filters-242600)**, a great collection of vintage filters inspired by Instagram effects (<a href="https://fronkongames.github.io/demos-retro/vintagefilters/">demo</a>, <a href="https://www.youtube.com/watch?v=YXMNQn7cu8I">youtube</a>).
   * **[Old Computers](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/retro-old-computers-243911)**, emulates the color palettes of old 8-bit and 16-bit computers (<a href="https://fronkongames.github.io/demos-retro/oldcomputers/">demo</a>, <a href="https://www.youtube.com/watch?v=_gADYOdLbL4">youtube</a>).
   * **[VHS](https://assetstore.unity.com/packages/slug/244944)**, mimic VHS as true as possible (<a href="https://fronkongames.github.io/demos-retro/vhs/">demo</a>, <a href="https://www.youtube.com/watch?v=LH9KDnOq0dg">youtube</a>).
+
+* **Glitches Bundle**, digital and analog glitches to increase the realism of your games.
+  * **[Color Blindness](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/glitches-color-blindness-273126)**, simulates the most common vision defects ([demo](https://fronkongames.github.io/demos-glitches/colorblindness/), [youtube](https://www.youtube.com/watch?v=f5CiPt9bzBE)).
+
+* **LUTs Bundle**, the largest collection of LUTs of the entire store.
+  * **[Cyberpunk](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/luts-cyberpunk-275005)**, apocalyptic future, looking cool ([demo](https://fronkongames.github.io/demos-luts/cyberpunk/), [youtube](https://www.youtube.com/watch?v=9JZdwytXLbA)).
 
 * **[Sprites Mojo](https://assetstore.unity.com/packages/vfx/shaders/sprites-mojo-214468)**, a collection of 2D effects to add more juice to your games ([demo](https://fronkongames.github.io/demos-artistic/sprites-mojo/), [youtube](https://www.youtube.com/watch?v=4eyGdIvJxko)).
 
