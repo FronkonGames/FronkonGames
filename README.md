@@ -107,12 +107,6 @@ Hi :wave: I'm Martin Bustos, a indie game developer and asset store publisher
 
 * **[Sprites Mojo](https://assetstore.unity.com/packages/vfx/shaders/sprites-mojo-214468)**, a collection of 2D effects to add more juice to your games ([demo](https://fronkongames.github.io/demos-artistic/sprites-mojo/), [youtube](https://www.youtube.com/watch?v=4eyGdIvJxko)).
 
-## Fun
-
-* **[ML Game Ideas](https://github.com/FronkonGames/Machine-Learning-Game-Ideas)**, using neural networks built with Keras / Tensorflow and using over 74000 Steam game descriptions.
-* **[Steam Games Scraper](https://github.com/FronkonGames/Steam-Games-Scraper)**, extract information from all games published in Steam thanks to its Web API, and store it in JSON format.
-* **[Go](https://fronkongames.github.io/blog/go-weiqi-igo-baduk.html)**, a very old strategy game that consists of capturing pieces and winning territories.
-
 ## Games published
 
 <details close>
