@@ -32,7 +32,9 @@ Hi :wave: I'm Martin Bustos, a indie game developer and asset store publisher
   * **Steam Games Dataset** ([huggingface](https://huggingface.co/datasets/FronkonGames/steam-games-dataset), [kaggle](https://www.kaggle.com/datasets/fronkongames/steam-games-dataset)), the largest dataset with information on games published on Steam.
 * **Articles**.
   * **[Awesome GameDev](https://github.com/FronkonGames/Awesome-Gamedev)**, a curated collection of resources to game development.
+  * **[Unity Is A Harsh Mistress 💔](https://fronkongames.github.io/blog/unity-is-a-harsh-mistress)**, a calm analysis of Unity's latest business plans and a conclusion.
   * **[Design Patterns In Game Development](https://github.com/FronkonGames/GameWork-Foundation)**, a tutorial on the use of Design Patterns in game development.
+  * **[Introduction To Go](https://fronkongames.github.io/blog/introduction-to-go)**, the oldest board game still played today.
 * **Twitter Bots**, related to game development.
   * **[One Game Idea A Day](https://twitter.com/OneGameIdeaADa1)**, generates game ideas using Machine Learning.
   * **[Game Development Daily News](https://twitter.com/daily_unity)**, news, resources and job offers about game development (and its [Spanish version](https://twitter.com/MenendevBot)).
