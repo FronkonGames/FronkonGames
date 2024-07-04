@@ -25,8 +25,9 @@ Hi :wave: I'm Martin Bustos, a indie game developer and asset store publisher
     * **[Scene](https://github.com/FronkonGames/GameWork-Scene)**: async scene loading management module.
     * **[Tween](https://github.com/FronkonGames/GameWork-Tween)**: tween / easing module.
 * **Tools**, utilities for video game development.
-  * **[Build History](https://github.com/FronkonGames/Build-History)**: keep a history of all the builds you do.
   * **[Tiny Tweens](https://gist.github.com/FronkonGames/ae3d0d613ac4ea6738e288c0a490c020)**: a complete and easy to use Tweens library in one file.
+  * **[Build History](https://github.com/FronkonGames/Build-History)**: keep a history of all the builds you do.
+  * **[Code Wizard](https://github.com/FronkonGames/Code-Wizard)**: generation of customizable code templates for Unity.
 * **Datasets**, related to video game development.
   * **Global Game Jam Dataset** ([huggingface](https://huggingface.co/datasets/FronkonGames/Global-Game-Jam-Dataset), [kaggle](https://www.kaggle.com/datasets/fronkongames/global-game-jam-dataset)), information about games and participants of the '[Global Game Jam](https://globalgamejam.org/)'.
   * **Steam Games Dataset** ([huggingface](https://huggingface.co/datasets/FronkonGames/steam-games-dataset), [kaggle](https://www.kaggle.com/datasets/fronkongames/steam-games-dataset)), the largest dataset with information on games published on Steam.
@@ -90,6 +91,7 @@ Hi :wave: I'm Martin Bustos, a indie game developer and asset store publisher
   * **[Corrupt Memory](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/glitches-corrupt-memory-274730)**, cyber-attacks, hardware failures, etc ([demo](https://fronkongames.github.io/demos-glitches/corruptmemory/), [youtube](https://www.youtube.com/watch?v=F4ubH6fGgcA)).
   * **[Interferences](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/glitches-interferences-281861)**, simulate video transmission failures ([demo](https://fronkongames.github.io/demos-glitches/interferences/), [youtube](https://www.youtube.com/watch?v=lYrj9jj3U8Y)).
   * **[VHS](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/glitches-vhs-282181)**, accurately emulates an old VHS tape ([demo](https://fronkongames.github.io/demos-glitches/vhs/), [youtube](https://www.youtube.com/watch?v=f3W4_dPwZK0)).
+* **[Distortions](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/glitches-distortions-282947)**, distortions effects to increase the awesomeness of your games ([demo](https://fronkongames.github.io/demos-glitches/distortions/), [youtube](https://www.youtube.com/watch?v=ydWFcmFnSaU)).
 
 * **[LUTs Bundle](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/luts-bundle-282899)**, the largest collection of LUTs of the entire store.
   * **[Cyberpunk](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/luts-cyberpunk-275005)**, apocalyptic future, looking cool ([demo](https://fronkongames.github.io/demos-luts/cyberpunk/), [youtube](https://www.youtube.com/watch?v=9JZdwytXLbA)).
