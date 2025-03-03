@@ -36,11 +36,11 @@ Hi :wave: I'm Martin Bustos, a indie game developer and asset store publisher
   * **[Unity Is A Harsh Mistress 💔](https://fronkongames.github.io/blog/unity-is-a-harsh-mistress)**, a calm analysis of Unity's latest business plans and a conclusion.
   * **[Design Patterns In Game Development](https://github.com/FronkonGames/GameWork-Foundation)**, a tutorial on the use of Design Patterns in game development.
   * **[Introduction To Go](https://fronkongames.github.io/blog/introduction-to-go)**, the oldest board game still played today.
-* **Twitter Bots**, related to game development.
-  * **[One Game Idea A Day](https://twitter.com/OneGameIdeaADa1)**, generates game ideas using Machine Learning.
-  * **[Game Development Daily News](https://twitter.com/daily_unity)**, news, resources and job offers about game development (and its [Spanish version](https://twitter.com/MenendevBot)).
-  * **[Unity Store Deals](https://twitter.com/UnityStoreDeals)**, searches for all asset offers in the Unity Store.
-  * **[Cant Refuse Offer](https://twitter.com/CantRefuseOffer)**, Unity Store assets with good ratings and offers.
+* **Social Bots**, related to game development.
+  * **Game Development Daily News**, resources, news, and job offers about game development ([bsky](https://bsky.app/profile/gamedevdaily.bsky.social), [x](https://twitter.com/daily_unity)).
+    * Spanish version ([bsky](https://bsky.app/profile/developeznews.bsky.social), [x](https://twitter.com/MenendevBot)).
+  * **Unity Store Deals**, searches for all asset offers in the Unity Store ([bsky](https://bsky.app/profile/unitystoredeals.bsky.social), [x](https://twitter.com/UnityStoreDeals)).
+  * **Cant Refuse Offer**, Unity Store assets with good ratings and offers ([bsky](https://bsky.app/profile/cantrefuseoffer.bsky.social), [x](https://twitter.com/CantRefuseOffer)).
 
 ## Assets for Unity
 
@@ -286,6 +286,16 @@ Hi :wave: I'm Martin Bustos, a indie game developer and asset store publisher
       <th><img alt="PC Fútbol 2001" src="images/PCFutbol2001_1.jpg"></th>
       <th><img alt="PC Fútbol 2001" src="images/PCFutbol2001_2.jpg"></th>
       <th><img alt="PC Fútbol 2001" src="images/PCFutbol2001_3.jpg"></th>
+    </tr>
+  </table>
+</details>
+
+<details close>
+  <summary><b>Speed Arrow 2000 (PC)</b>, Eurisko Software, 48h game jam.</summary>
+  <table>
+    <tr>
+      <th><img alt="Speed Arrow" src="images/sa_menu_1.webp"></th>
+      <th><img alt="Speed Arrow" src="images/sa_juego_2.webp"></th>
     </tr>
   </table>
 </details>
