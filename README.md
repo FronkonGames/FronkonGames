@@ -29,6 +29,7 @@ With over 20+ years of experience crafting games and tools for Unity developers
 * **Tools**, utilities for video game development.
   * **[Tiny Tweens](https://gist.github.com/FronkonGames/ae3d0d613ac4ea6738e288c0a490c020)**: a complete and easy to use Tweens library in one file.
   * **[Build History](https://github.com/FronkonGames/Build-History)**: keep a history of all the builds you do.
+  * **[Palette Tool](https://github.com/FronkonGames/Palette-Tool)**: a tool for finding the perfect color palette.
   * **[Code Wizard](https://github.com/FronkonGames/Code-Wizard)**: generation of customizable code templates for Unity.
 * **Datasets**, related to video game development.
   * **Global Game Jam Dataset** ([huggingface](https://huggingface.co/datasets/FronkonGames/Global-Game-Jam-Dataset), [kaggle](https://www.kaggle.com/datasets/fronkongames/global-game-jam-dataset)), information about games and participants of the '[Global Game Jam](https://globalgamejam.org/)'.
