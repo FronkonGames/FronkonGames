@@ -43,7 +43,7 @@ With over 25+ years of experience crafting games and tools for Unity developers
 * **Social Bots**, related to game development.
   * **Game Development Daily News**, resources, news, and job offers about game development ([bsky](https://bsky.app/profile/gamedevdaily.bsky.social), [x](https://twitter.com/daily_unity)).
     * Spanish version ([bsky](https://bsky.app/profile/developeznews.bsky.social), [x](https://twitter.com/MenendevBot)).
-  * **Unity Store Deals**, searches for all asset offers in the Unity Store ([bsky](https://bsky.app/profile/unitystoredeals.bsky.social), [x](https://twitter.com/UnityStoreDeals)).
+  * **Unity Store Deals**, searches for all asset offers in the Unity Store ([bsky](https://bsky.app/profile/unitystoredeals.bsky.social), [x](https://twitter.com/Nephasto)).
   * **Cant Refuse Offer**, Unity Store assets with good ratings and offers ([bsky](https://bsky.app/profile/cantrefuseoffer.bsky.social), [x](https://twitter.com/CantRefuseOffer)).
 
 ## Assets for Unity
