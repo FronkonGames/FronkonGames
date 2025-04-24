@@ -6,7 +6,7 @@
 
 # Hi there, I'm Martin Bustos 👋
 
-With over 25+ years of experience crafting games and tools for Unity developers
+a game developer with over 25+ years of experience crafting games and tools for Unity developers
 
 <a href="https://twitter.com/fronkongames" target="_blank">![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)</a> <a href="https://www.linkedin.com/in/martinbr" target="_blank">![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)</a> ![](https://komarev.com/ghpvc/?username=fronkongames&label=Profile%20views&color=0e75b6&style=for-the-badge)
 
@@ -85,6 +85,7 @@ With over 25+ years of experience crafting games and tools for Unity developers
   * **[ASCII](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/retro-ascii-241924)**, the old-school ASCII effect with steroids! (<a href="https://fronkongames.github.io/demos-retro/ascii/">demo</a>, <a href="https://www.youtube.com/watch?v=shQxDDe8Aw4">youtube</a>).
   * **[CRT TV](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/retro-crt-tv-241411)**, makes your game look like on an old television (<a href="https://fronkongames.github.io/demos-retro/crttv/">demo</a>, <a href="https://www.youtube.com/watch?v=UFFvtpXdUBc">youtube</a>).
   * **[Old Films](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/retro-spectrum-239827)**, the best way to replicate the look of old movies (<a href="https://fronkongames.github.io/demos-retro/oldfilms/">demo</a>, <a href="https://www.youtube.com/watch?v=zBwXR_i6_gw">youtube</a>).
+  * **[Lo-Fi](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/retro-lofi-297300)**, create stunning retro-style visuals (<a href="https://fronkongames.github.io/demos-retro/lofi/">demo</a>, <a href="https://www.youtube.com/watch?v=51rAf7z0Plg">youtube</a>).
   * **[Spectrum](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/retro-spectrum-239827)**, mimics the legendary ZX Spectrum 8-bits computer from 1982 (<a href="https://fronkongames.github.io/demos-retro/spectrum/">demo</a>, <a href="https://www.youtube.com/watch?v=SdXHXljClF8">youtube</a>).
   * **[Handheld 8-Bit](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/retro-handheld-8-bit-239924)**, imitates the graphics of the 8-bit handheld console Game Boy (<a href="https://fronkongames.github.io/demos-retro/handheld8bit/">demo</a>, <a href="https://www.youtube.com/watch?v=j6vOE1nazbA">youtube</a>).
   * **[Vintage Filters](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/retro-vintage-filters-242600)**, a great collection of vintage filters inspired by Instagram effects (<a href="https://fronkongames.github.io/demos-retro/vintagefilters/">demo</a>, <a href="https://www.youtube.com/watch?v=YXMNQn7cu8I">youtube</a>).
