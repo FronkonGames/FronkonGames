@@ -32,9 +32,10 @@ a game developer with over 25+ years of experience crafting games and tools for 
   * **[Palette Tool](https://github.com/FronkonGames/Palette-Tool)**: a tool for finding the perfect color palette.
   * **[Code Wizard](https://github.com/FronkonGames/Code-Wizard)**: generation of customizable code templates for Unity.
   * **[Tailwind](https://gist.github.com/FronkonGames/d8177d92b50ca29d346585b5a63361a2)**: an expertly-crafted color palette out-of-the-box, for Unity.
+  * **[Before Commit](https://marketplace.visualstudio.com/items?itemName=FronkonGames.before-commit)** highlights files that exceed a configurable size limit in the Source Control view before committing them.
 * **Datasets**, related to video game development.
-  * **Global Game Jam Dataset** ([huggingface](https://huggingface.co/datasets/FronkonGames/Global-Game-Jam-Dataset), [kaggle](https://www.kaggle.com/datasets/fronkongames/global-game-jam-dataset)), information about games and participants of the '[Global Game Jam](https://globalgamejam.org/)'.
   * **Steam Games Dataset** ([huggingface](https://huggingface.co/datasets/FronkonGames/steam-games-dataset), [kaggle](https://www.kaggle.com/datasets/fronkongames/steam-games-dataset)), the largest dataset with information on games published on Steam.
+  * **Global Game Jam Dataset** ([huggingface](https://huggingface.co/datasets/FronkonGames/Global-Game-Jam-Dataset), [kaggle](https://www.kaggle.com/datasets/fronkongames/global-game-jam-dataset)), information about games and participants of the '[Global Game Jam](https://globalgamejam.org/)'.
 * **Articles**.
   * **[Awesome GameDev](https://github.com/FronkonGames/Awesome-Gamedev)**, a curated collection of resources to game development.
   * **[Unity Is A Harsh Mistress 💔](https://fronkongames.github.io/blog/unity-is-a-harsh-mistress)**, a calm analysis of Unity's latest business plans and a conclusion.
