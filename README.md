@@ -49,6 +49,7 @@ a game developer with over 25+ years of experience crafting games and tools for 
 
 ## Assets for Unity
 
+* **[Camera Transitions](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/camera-transitions-293650)**, a collection of cinematic, realtime and easy-to-use camera transition effects.
 * **[Artistic Bundle](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/artistic-bundle-272266)**, enhance your creativity and get a unique style with this effects bundle.
   * **[Oil Paint](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/artistic-oil-paint-264134)**, transform your games into pieces of art ([demo](https://fronkongames.github.io/demos-artistic/oilpaint/), [youtube](https://www.youtube.com/watch?v=A9jtFpXo02Q)).
   * **[One Bit](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/artistic-one-bit-216000)**, a hipster, original and versatile look using a dithering with blue noise ([demo](https://fronkongames.github.io/demos-artistic/onebit/), [youtube](https://www.youtube.com/watch?v=Yz9j7iXuDhY)).
