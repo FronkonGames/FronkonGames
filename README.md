@@ -6,7 +6,7 @@
 
 a game developer with over 25+ years of experience crafting games and tools for Unity developers
 
-<a href="https://twitter.com/fronkongames" target="_blank">![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)</a> <a href="https://www.linkedin.com/in/martinbr" target="_blank">![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)</a> ![](https://komarev.com/ghpvc/?username=fronkongames&label=Profile%20views&color=0e75b6&style=for-the-badge)
+<a href="https://bsky.app/profile/fronkongames.bsky.social" target="_blank">![](https://img.shields.io/badge/bluesky-%231DA1F2.svg?&style=for-the-badge&logo=bluesky&logoColor=white)</a> <a href="https://www.linkedin.com/in/martinbr" target="_blank">![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)</a> ![](https://komarev.com/ghpvc/?username=fronkongames&label=Profile%20views&color=0e75b6&style=for-the-badge)
 
 </div>
 
