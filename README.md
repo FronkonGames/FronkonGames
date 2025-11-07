@@ -105,6 +105,9 @@ a game developer with over 25+ years of experience crafting games and tools for 
   * **[Hacked](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/glitches-hacked-293724)**, visually emulates a hacking using various effects ([demo](https://fronkongames.github.io/demos-glitches/hacked/), [youtube](https://www.youtube.com/watch?v=gjgyrVs8yx0)).
   * **[Broken LCD](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/glitches-broken-lcd-294991)**, simulated ([demo](https://fronkongames.github.io/demos-glitches/broken-lcd/), [youtube](https://www.youtube.com/watch?v=BgRcZrxu280)).
 
+* **Weird Bundle**, embrace the weirdness and make your games truly unique.
+  * **[Fire Tunnel](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/weird-fire-tunnel-342436)**, a mesmerizin fire tunnel effect ([demo](https://fronkongames.github.io/demos-weird/firetunnel/), [youtube](https://www.youtube.com/watch?v=t63DSqXg250)).
+
 * **[LUTs Bundle](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/luts-bundle-282899)**, the largest collection of LUTs of the entire store.
   * **[Cyberpunk](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/luts-cyberpunk-275005)**, apocalyptic future, looking cool ([demo](https://fronkongames.github.io/demos-luts/cyberpunk/), [youtube](https://www.youtube.com/watch?v=9JZdwytXLbA)).
   * **[Vintage](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/luts-vintage-275594)**, nostalgia for the past ([demo](https://fronkongames.github.io/demos-luts/vintage/), [youtube](https://www.youtube.com/watch?v=v052UeIjusk)).
@@ -118,8 +121,6 @@ a game developer with over 25+ years of experience crafting games and tools for 
   * **[Action](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/luts-action-280076)**, colors for action! ([demo](https://fronkongames.github.io/demos-luts/action/), [youtube](https://www.youtube.com/watch?v=PrSI6uIoUd0)).
   * **[Horror](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/luts-horror-280345)**, the colors of fear… ([demo](https://fronkongames.github.io/demos-luts/horror/), [youtube](https://www.youtube.com/watch?v=SoM5cH3c_YY)).
   * **[Sci-Fi](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/luts-sci-fi-280709)**, futuristic and dystopian looks ([demo](https://fronkongames.github.io/demos-luts/scifi/), [youtube](https://www.youtube.com/watch?v=ItmAGy08gAY)).
-
-* **[Sprites Mojo](https://assetstore.unity.com/packages/vfx/shaders/sprites-mojo-214468)**, a collection of 2D effects to add more juice to your games ([demo](https://fronkongames.github.io/demos-artistic/sprites-mojo/), [youtube](https://www.youtube.com/watch?v=4eyGdIvJxko)).
 
 ## Games published
 
