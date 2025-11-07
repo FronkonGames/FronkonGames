@@ -107,6 +107,7 @@ a game developer with over 25+ years of experience crafting games and tools for 
 
 * **Weird Bundle**, embrace the weirdness and make your games truly unique.
   * **[Fire Tunnel](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/weird-fire-tunnel-342436)**, a mesmerizin fire tunnel effect ([demo](https://fronkongames.github.io/demos-weird/firetunnel/), [youtube](https://www.youtube.com/watch?v=t63DSqXg250)).
+  * **[Extruder](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/weird-extruder-343886)**, a mesmerizin fire tunnel effect ([demo](https://fronkongames.github.io/demos-weird/extruder/), [youtube](https://www.youtube.com/watch?v=4ueppnM4m-A)).
 
 * **[LUTs Bundle](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/luts-bundle-282899)**, the largest collection of LUTs of the entire store.
   * **[Cyberpunk](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/luts-cyberpunk-275005)**, apocalyptic future, looking cool ([demo](https://fronkongames.github.io/demos-luts/cyberpunk/), [youtube](https://www.youtube.com/watch?v=9JZdwytXLbA)).
