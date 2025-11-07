@@ -49,7 +49,7 @@ a game developer with over 25+ years of experience crafting games and tools for 
 
 * **[True Ballistics](https://assetstore.unity.com/packages/templates/systems/true-ballistics-326593)**, a physically-accurate ballistics simulation ([youtube](https://www.youtube.com/watch?v=44zTW3yJL-Y)).
 
-* **[Camera Transitions](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/camera-transitions-293650)**, a collection of cinematic, realtime and easy-to-use camera transition effects.
+* **[Camera Transitions](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/camera-transitions-293650)**, a collection of cinematic, realtime and easy-to-use camera transition effects ([youtube](https://www.youtube.com/watch?v=8eKo8r3TG44)).
 
 * **[Artistic Bundle](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/artistic-bundle-272266)**, enhance your creativity and get a unique style with this effects bundle.
   * **[Oil Paint](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/artistic-oil-paint-264134)**, transform your games into pieces of art ([demo](https://fronkongames.github.io/demos-artistic/oilpaint/), [youtube](https://www.youtube.com/watch?v=A9jtFpXo02Q)).
