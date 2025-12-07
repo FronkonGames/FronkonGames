@@ -6,7 +6,10 @@
 
 a game developer with over 25+ years of experience crafting games and tools for Unity developers
 
-<a href="https://bsky.app/profile/fronkongames.bsky.social" target="_blank">![](https://img.shields.io/badge/bluesky-%231DA1F2.svg?&style=for-the-badge&logo=bluesky&logoColor=white)</a> <a href="https://www.linkedin.com/in/martinbr" target="_blank">![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)</a> ![](https://komarev.com/ghpvc/?username=fronkongames&label=Profile%20views&color=0e75b6&style=for-the-badge)
+<a href="https://x.com/fronkongames" target="_blank">![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=X&logoColor=white&labelColor=blue)</a>
+<a href="https://bsky.app/profile/fronkongames.bsky.social" target="_blank">![](https://img.shields.io/badge/bluesky-%231DA1F2.svg?&style=for-the-badge&logo=bluesky&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/martinbr" target="_blank">![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)</a>
+![](https://komarev.com/ghpvc/?username=fronkongames&label=Profile%20views&color=0e75b6&style=for-the-badge)
 
 </div>
 
@@ -108,7 +111,7 @@ a game developer with over 25+ years of experience crafting games and tools for 
   * **[Hacked](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/glitches-hacked-293724)**, visually emulates a hacking using various effects ([demo](https://fronkongames.github.io/demos-glitches/hacked/), [youtube](https://www.youtube.com/watch?v=gjgyrVs8yx0)).
   * **[Broken LCD](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/glitches-broken-lcd-294991)**, simulated ([demo](https://fronkongames.github.io/demos-glitches/broken-lcd/), [youtube](https://www.youtube.com/watch?v=BgRcZrxu280)).
 
-* **Weird Bundle**, embrace the weirdness and make your games truly unique.
+* **[Weird Bundle](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/weird-bundle-349038?aid=1101l9zFC)**, embrace the weirdness and make your games truly unique.
   * **[Fire Tunnel](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/weird-fire-tunnel-342436)**, a mesmerizin fire tunnel effect ([demo](https://fronkongames.github.io/demos-weird/firetunnel/), [youtube](https://www.youtube.com/watch?v=t63DSqXg250)).
   * **[Extruder](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/weird-extruder-343886)**, a mesmerizin fire tunnel effect ([demo](https://fronkongames.github.io/demos-weird/extruder/), [youtube](https://www.youtube.com/watch?v=4ueppnM4m-A)).
   * **[Crystal](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/weird-crystal-344468)**, crystalline patterns and dynamic lights ([demo](https://fronkongames.github.io/demos-weird/crystal/), [youtube](https://www.youtube.com/watch?v=jlNRgLQmGoE)).
