@@ -66,6 +66,7 @@ a game developer with over 25+ years of experience crafting games and tools for 
   * **[Neon](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/artistic-neon-270269)**, neon synthwave effect ([demo](https://fronkongames.github.io/demos-artistic/neon/), [youtube](https://www.youtube.com/watch?v=nNVYDesYfF8)).
   * **[Spark](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/artistic-spark-270898)**, adds bloom and ray-of-light effects ([demo](https://fronkongames.github.io/demos-artistic/spark/), [youtube](https://www.youtube.com/watch?v=kgwMRlHzGxs)).
   * **[Radial Blur](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/artistic-radial-blur-271547)**, increases the feeling of speed and adrenaline ([demo](https://fronkongames.github.io/demos-artistic/radialblur/), [youtube](https://www.youtube.com/watch?v=rSE8fjbire4)).
+  * **[Snow](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/artistic-snow-379248)**, procedural GPU 2D snow ([demo](https://fronkongames.github.io/demos-artistic/snow/), [youtube](https://www.youtube.com/watch?v=7LP7RvAftcs)).
 
 * **[Spice Up Bundle](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/spice-up-bundle-262333)**, a large selection of effects to give juice to your games ([youtube](https://www.youtube.com/watch?v=jXgT-2tXmgI)).
   * **[Damage](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/spice-up-damage-247019)**, a visual indicator of health and damage received ([demo](https://fronkongames.github.io/demos-spiceup/damage/), [youtube](https://www.youtube.com/watch?v=rChUFliVX_E)).
@@ -324,20 +325,6 @@ a game developer with over 25+ years of experience crafting games and tools for 
     </tr>
   </table>
 </details>
-
-## Technologies And Tools
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="Amazon Web Services" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="Visual Studio Code" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-</p>
 
 <p align="center">
 <picture>
