@@ -6,7 +6,6 @@
 
 a game developer with over 25+ years of experience crafting games and tools for Unity developers
 
-<a href="https://x.com/fronkongames" target="_blank">![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=X&logoColor=white&labelColor=blue)</a>
 <a href="https://bsky.app/profile/fronkongames.bsky.social" target="_blank">![](https://img.shields.io/badge/bluesky-%231DA1F2.svg?&style=for-the-badge&logo=bluesky&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/martinbr" target="_blank">![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)</a>
 ![](https://komarev.com/ghpvc/?username=fronkongames&label=Profile%20views&color=0e75b6&style=for-the-badge)
@@ -43,9 +42,9 @@ a game developer with over 25+ years of experience crafting games and tools for 
   * **[Design Patterns In Game Development](https://github.com/FronkonGames/GameWork-Foundation)**, a tutorial on the use of Design Patterns in game development.
   * **[Introduction To Go](https://fronkongames.github.io/blog/introduction-to-go)**, the oldest board game still played today.
 * **Social Bots**, related to game development.
-  * **Game Development Daily News**, resources, news, and job offers about game development ([bsky](https://bsky.app/profile/gamedevdaily.bsky.social), [x](https://twitter.com/daily_unity)).
-    * Spanish version ([bsky](https://bsky.app/profile/developeznews.bsky.social), [x](https://twitter.com/MenendevBot)).
-  * **Unity Store Deals**, searches for all asset offers in the Unity Store ([bsky](https://bsky.app/profile/unitystoredeals.bsky.social), [x](https://twitter.com/Nephasto)).
+  * **Game Development Daily News**, resources, news, and job offers about game development ([bsky](https://bsky.app/profile/gamedevdaily.bsky.social)).
+    * Spanish version ([bsky](https://bsky.app/profile/developeznews.bsky.social)).
+  * **Unity Store Deals**, searches for all asset offers in the Unity Store ([bsky](https://bsky.app/profile/unitystoredeals.bsky.social)).
   * **Cant Refuse Offer**, Unity Store assets with good ratings and offers ([bsky](https://bsky.app/profile/cantrefuseoffer.bsky.social), [x](https://twitter.com/CantRefuseOffer)).
 
 ## Assets for Unity
